@@ -26,6 +26,7 @@ Specific regulatory references are cited inline.
 - AC 101-01 v6.0 — RPAS — Section 3.1.6: Operating near people and in populous areas
 - CASR 101.245, 101.280 — Operations near people and in populous areas
 - [CASA EX45/24 — Operation of Remotely Piloted Aircraft Over Populous Area Exemption 2024](https://www.legislation.gov.au/F2024L00968/latest/text)
+- [CASA RPAS multi-purpose form]([https://www.legislation.gov.au/F2024L00968/latest/text](https://www.reocapplication.com/wp-content/uploads/2023/04/RPAS-multi-purpose-form.pdf))
 
 Always verify against current versions at casa.gov.au and legislation.gov.au.
 
