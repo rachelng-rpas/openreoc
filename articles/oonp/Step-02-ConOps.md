@@ -87,7 +87,7 @@ This is the core of your ConOps. Be specific about each operation type.
      Explain when you'd use each.
 
    *If you're unsure, review 
-   [01 — Overview and Pathways](Step-01-overview-and-pathways.md) first.*
+   [01 — Overview and Pathways](Step-01-Overview-and-pathways.md) first.*
 
 7. **Are there any scenarios where one pathway might not be enough 
    on its own?**  
