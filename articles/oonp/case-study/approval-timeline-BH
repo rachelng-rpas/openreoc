@@ -1,10 +1,10 @@
 # Case Study — OONP Approval (Pathway 1 + 2)
 
-> This documents the real timeline of applying for OONP approval 
-> under an existing ReOC. Company details are anonymised.
+> This documents the real timeline and process of applying for OONP 
+> approval under an existing ReOC. Company details are anonymised.
 >
 > **Operator:** Small commercial operator, Sydney metro area  
-> **ReOC category:** Sub-250g, 250-2kg, Sub-25kg multirotor  
+> **ReOC fleet:** Sub-250g, 250g-2kg, and sub-25kg multirotor  
 > **Pathways sought:** P1 (controlled environment) + P2 (energy-based)  
 > **Operation types:** Building wash + aerial filming
 
@@ -12,32 +12,46 @@
 
 ## Timeline
 
+### Research and Preparation
+
 | Date | Action | Notes |
 |------|--------|-------|
-| 09 April 2026 | Going through documents as listed in OONP/01-overview-and-pathways |
-| 11 April 2026 | Going through documents as listed in OONP/01-overview-and-pathways and creating the guide |
+| 09 Apr 2026 | Started reviewing regulatory documents | TMI 2024-01, AC 101-01 v6.0, EX45/24, CASR 101.245/280 |
+| 11 Apr 2026 | Continued document review and began drafting overview guide | See [OONP Overview and Pathways](../oonp/01-overview-and-pathways.md) |
 
-Expected work to be done:
-- Gap analysis of current ReOC | Map current manual against TMI 2024-01 requirements
-- Energy calculations completed | KE calcs for RPA across all flight modes/weights/speeds
-- Draft the ConOps | 2-page standalone document for CASA
-- Draft/Update Ops manual OONP section | Section 2.4.6.3 populated with full procedures
-- Draft/Update Consent forms | Express written (P1) + informed consent (P2) + occupant notification
-- Internal review and CRP sign-off | Consistency check
-- Submission to CASA | RPAS Multi-Purpose Form + all supporting docs |
+### Development (in progress)
 
-Dates be noted down:
-- CASA acknowledged receipt
-- Feedbacks received (if any) | What they asked for, what we changed
-- CRP interview / Q&A (if required)
-- Approval granted | Conditions and limitations noted
+| Target | Deliverable | Status |
+|--------|-------------|--------|
+| TBD | Gap analysis — map current manual against TMI 2024-01 | Not started |
+| TBD | Energy calculations — KE calcs across all flight modes, weights, speeds | Not started |
+| TBD | ConOps draft — 2-page standalone document for CASA | Not started |
+| TBD | Ops manual OONP section — full procedures for Section 2.4.6.3 | Not started |
+| TBD | Consent forms — express written (P1), informed consent (P2), occupant notification | Not started |
+| TBD | Internal review and CRP sign-off — full package consistency check | Not started |
+| TBD | Submission — RPAS Multi-Purpose Form + all supporting documents | Not started |
 
+### CASA Assessment (dates to be recorded)
 
-Lessons Learned
+| Date | Milestone | Notes |
+|------|-----------|-------|
+| — | CASA acknowledged receipt | |
+| — | Feedback received (if any) | What they asked, what we changed |
+| — | CRP interview or Q&A (if required) | |
+| — | Approval granted | Conditions and limitations to be noted |
+
+---
+
+## Lessons Learned
 *(updated as the process progresses)*
-- mainly focus on the TMI-2024-01, adjustment on top of CASR 101.245 and 101.280, first identify the pathway and CONOPS
 
-
+- Start with TMI 2024-01 as the primary reference, not the CASRs. 
+  The TMI is where the pathway conditions, definitions, and practical 
+  requirements live. CASR 101.245 and 101.280 tell you what you can't 
+  do without approval; the TMI tells you how to get the approval.
+- Identify your pathway and draft the ConOps early. Everything else 
+  (energy calcs, procedures, consent forms) flows from knowing which 
+  pathway you're pursuing and what operations you're applying for.
 
 ## What We'd Do Differently
 *(updated after completion)*
