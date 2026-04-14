@@ -4,7 +4,8 @@
 
 > **Understanding CASA's TMI 2024-01 Pathway 1 for Operations Over or Near People**
 >
-> **Last updated:** 14 April 2026
+> **Last updated:** 15 April 2026
+> 
 > **Regulatory basis:** TMI 2024-01, CASR 101.245, CASR 101.280, CASA EX45/24
 
 ---
