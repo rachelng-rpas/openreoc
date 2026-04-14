@@ -11,9 +11,7 @@
 
 ## Contents
 
-- [Background — Why OONP Exists](#background--why-oonp-exists)
 - [What is Pathway 1?](#what-is-pathway-1)
-- [Key Definitions](#key-definitions)
 - [Conditions for Pathway 1 Approval](#conditions-for-pathway-1-approval)
 - [The Consent Process](#the-consent-process)
 - [Operating Rules Within a Controlled Environment](#operating-rules-within-a-controlled-environment)
@@ -34,41 +32,6 @@ Pathway 1 is the **controlled environment** pathway.
 
 The concept: if you can guarantee that **only** people who have given express written consent and are directly participating in the activity are present in the operational area, and you have **physical access control** to prevent anyone else from entering, CASA will consider approving operations closer than 15m — including flying **directly over** those people.
 
-
-### Sheltering
-
-> The use of a structure or barrier to physically segregate a person from an RPA.
-
-Key points:
-
-- People inside a building (behind glass, under a roof) may be considered **sheltered** — they are protected by the structure and do not need to be active participants
-- The operator must declare the shelter construction is sufficient — if the RPA penetrated the structure, the residual energy transfer would not be harmful
-- A person in a vehicle is **not** sheltered if: the vehicle is not enclosed (e.g., motorcycle), or the vehicle is travelling over 60 km/h
-- Vehicles under 50 km/h where the driver has provided informed consent are considered suitable shelter
-
-### 1:1 Ratio
-
-The **horizontal distance** from the RPA to a person must be at least equal to the **height** of the RPA above ground level.
-
-| RPA Height (AGL) | Minimum Horizontal Distance from Person |
-|-------------------|----------------------------------------|
-| 5m | 5m |
-| 10m | 10m |
-| 15m | 15m |
-| 20m | 20m |
-| 30m | 30m |
-
-This applies within the operational area, even for consenting active participants.
-
-### Exposed Rotating Parts
-
-Operations near people within the 1:1 ratio must **not** occur with an RPA that has exposed rotating parts capable of lacerating human skin.
-
-Solutions:
-
-- **Propeller guards** — physically cover the propellers
-- **Parachute Recovery System (PRS)** — must stop propeller rotation upon activation (the TMI states that PRS systems that stop rotation are "taken to meet this requirement")
-
 ---
 
 ## Conditions for Pathway 1 Approval
@@ -87,11 +50,6 @@ Everyone inside is an **active participant** who has signed **express written co
 
 ### 2. Controlled Environment
 
-- Operations conducted **only** within a controlled environment
-- Physical access control (barriers, fencing, locked doors, security) preventing uninvolved persons from entering
-- Operator aware of all persons entering or exiting
-
-
 This requires:
 
 | Element | Meaning |
@@ -99,7 +57,7 @@ This requires:
 | **Designated** | The area must be defined before operations begin |
 | **Solely involves active participants** | No uninvolved persons permitted inside |
 | **Can control** | Physical access control — barriers, fencing, locked doors, security personnel |
-| **Aware of persons entering/exiting** | Monitoring mechanism — observers, security, access logs |
+| **Operator aware of persons entering/exiting** | Monitoring mechanism — observers, security, access logs |
 
 > **Signage alone is NOT sufficient** to establish a controlled environment. CASA expects genuine physical control, you must be able to **prevent** someone from entering the area, not just warn them.
 
@@ -169,7 +127,7 @@ The consent document must include:
 - **Signature** (physical or digital), **printed name**, and **date**
 - Confirmation the person is **18 years or older**
 
-### What Consent Cannot Be
+### Consent Cannot Be
 
 - **Proxy consent** — a body corporate, employer, building manager, or event organiser cannot consent on behalf of individuals. Each person must consent individually.
 - **Blanket consent** — "everyone on site is deemed to have consented" is not acceptable under Pathway 1.
@@ -198,6 +156,41 @@ Once the controlled environment is established and all consents are obtained, th
 | **Exposed rotating parts** | Within 1:1 zone: no exposed propellers unless PRS fitted or prop guards used |
 | **Flight logging** | Record start/end times, RPA used, flight mode, persons in area, weather, any incidents |
 | **Consent verification** | Before each flight: confirm all persons in the area have signed consent |
+
+---
+### Sheltering
+
+> The use of a structure or barrier to physically segregate a person from an RPA.
+
+Key points:
+
+- People inside a building (behind glass, under a roof) may be considered **sheltered** — they are protected by the structure and do not need to be active participants
+- The operator must declare the shelter construction is sufficient — if the RPA penetrated the structure, the residual energy transfer would not be harmful
+- A person in a vehicle is **not** sheltered if: the vehicle is not enclosed (e.g., motorcycle), or the vehicle is travelling over 60 km/h
+- Vehicles under 50 km/h where the driver has provided informed consent are considered suitable shelter
+
+### 1:1 Ratio
+
+The **horizontal distance** from the RPA to a person must be at least equal to the **height** of the RPA above ground level.
+
+| RPA Height (AGL) | Minimum Horizontal Distance from Person |
+|-------------------|----------------------------------------|
+| 5m | 5m |
+| 10m | 10m |
+| 15m | 15m |
+| 20m | 20m |
+| 30m | 30m |
+
+This applies within the operational area, even for consenting active participants.
+
+### Exposed Rotating Parts
+
+Operations near people within the 1:1 ratio must **not** occur with an RPA that has exposed rotating parts capable of lacerating human skin.
+
+Solutions:
+
+- **Propeller guards** — physically cover the propellers
+- **Parachute Recovery System (PRS)** — must stop propeller rotation upon activation (the TMI states that PRS systems that stop rotation are "taken to meet this requirement")
 
 ---
 
