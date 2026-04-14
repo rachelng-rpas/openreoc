@@ -10,11 +10,12 @@
 ### In this series:
 1. **Overview and Pathways** ← you are here
 2. [ConOps - Concept of Operations](Step-02-ConOps.md)
-3. [Pathway 1 — Controlled Environment](Reference-pathway-1-controlled.md) *(coming soon)*
+3. [Pathway 1 — Controlled Environment](Reference-pathway-1-controlled.md) *(drafting)*
 4. [Pathway 2 — Energy-Based](Reference-pathway-2-energy.md) *(coming soon)*
 5. [Operations Manual Updates](Step-03-ops-manual-updates.md) *(coming soon)*
 6. [Supporting Documents](Step-04-supporting-documents.md) *(coming soon)*
 7. [Submission and Approval Process](Step-05-submission-and-process.md) *(coming soon)*
+8. [Practical examples on selecting pathway 1 or 2](Practical-examples.md)
 
 ---
 
