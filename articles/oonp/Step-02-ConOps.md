@@ -26,6 +26,7 @@
 The JARUS SORA Annex A describes the ConOps as a major document used to assess the risks involved, covering two main parts:
 
 **Operational part**: describe who, what, where, when, how, and under what conditions. 
+
 **Technical part**: the UAS system details, capabilities, and limitations.
 
 As the SORA community notes, the ConOps should answer all questions the authority might need to ask, including who is the staff involved, how are tasks organised, who is responsible, how does the team proceed in different situations.
