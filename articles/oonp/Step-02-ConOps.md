@@ -2,8 +2,12 @@
 > Before you update your ops manual, calculate energy, or draft 
 > consent forms, you need a clear picture of what you're actually 
 > applying for. That's what the ConOps does.
->
-> **Last updated:** 12 April 2026
+> The TMI 2024-01 for Pathway 1 and Pathway 2 does not require a formal SORA ConOps.
+> CASA's OONP simply asks you to download and complete the form, submit with updated
+> ops manual, and CASA will check completeness.
+> 
+>  Even for a simpler Pathway 1/2 application, providing this kind of summary gives CASA confidence you've thought it through.
+> **Last updated:** 14 April 2026
 
 ---
 
@@ -18,13 +22,10 @@
 ---
 ## What is a ConOps?
 
-A Concept of Operations (ConOps) is a short standalone document 
-(2–5 pages) that tells CASA, in plain language:
-
-- Who you are
-- What OONP operations you want to do
-- How you intend to do them safely
-- Why you've chosen the pathway(s) you've chosen
+The JARUS SORA Annex A describes the ConOps as a major document used to assess the risks involved, covering two main parts:
+**Operational part**: describe who, what, where, when, how, and under what conditions. 
+**Technical part**: the UAS system details, capabilities, and limitations.
+As the SORA community notes, the ConOps should answer all questions the authority might need to ask, including who is the staff involved, how are tasks organised, who is responsible, how does the team proceed in different situations.
 
 It is **not** part of your ops manual. It is **not** a per-site plan. 
 It describes your overall OONP capability: the types of operations 
