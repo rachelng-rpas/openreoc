@@ -22,8 +22,6 @@
 - [What CASA Looks For in an Application](#what-casa-looks-for-in-an-application)
 - [Combining Pathway 1 with Pathway 2](#combining-pathway-1-with-pathway-2)
 - [Tips for Applicants](#tips-for-applicants)
-- [Regulatory References](#regulatory-references)
-
 
 ---
 **What is Pathway 1?**
@@ -216,53 +214,6 @@ For building wash or inspection operations, if building occupants have been **no
 
 ---
 
-## Practical Examples
-
-### Example 1: Building Exterior Wash
-
-**Scenario:** Washing a 6-storey residential building. Occupied. Pedestrians on the adjacent footpath.
-
-| Element | How Pathway 1 Applies |
-|---------|----------------------|
-| **Controlled environment** | Ground-level barriers (cones, tape, fencing) around the building base. Observer at access points. |
-| **Active participants** | Ground crew, building management rep, observer, RP — all sign consent forms. |
-| **Building occupants** | Notified via building management. Windows closed = sheltered. No consent form needed. |
-| **Pedestrians on footpath** | If footpath can be closed: include in controlled environment. If not: the area above the public footpath is NOT covered by Pathway 1 — consider Pathway 2 for that portion, or schedule operations when pedestrian traffic is minimal. |
-| **Wash drone** | Operates ~3m from facade, within the controlled area. |
-
-### Example 2: Closed Film Set
-
-**Scenario:** Filming in a warehouse studio. 15 crew, 3 actors.
-
-| Element | How Pathway 1 Applies |
-|---------|----------------------|
-| **Controlled environment** | Warehouse — locked doors, no public access. Natural controlled environment. |
-| **Active participants** | All 18 people inside (crew + actors). Each signs consent. |
-| **Operations** | Drone flies over actors for overhead shots. All consented. Permitted. |
-| **Prop guards / PRS** | Recommended if flying within the 1:1 ratio zone. |
-
-### Example 3: Construction Site Inspection
-
-**Scenario:** Drone inspection of a building under construction. Workers on site.
-
-| Element | How Pathway 1 Applies |
-|---------|----------------------|
-| **Controlled environment** | Construction sites are typically already controlled — fenced, gated, sign-in. |
-| **Active participants** | All workers in the operational area briefed and sign consent. Site manager confirms no other access. |
-| **Operations** | Drone inspects facade while workers are nearby. Workers consented and briefed. |
-
-### Example 4: Private Property Shoot
-
-**Scenario:** Real estate video at a private home. Client + 2 assistants on site. Neighbours nearby.
-
-| Element | How Pathway 1 Applies |
-|---------|----------------------|
-| **Controlled environment** | Client's property — fenced or bounded. |
-| **Active participants** | Client and assistants sign consent. |
-| **Neighbours** | Not in the controlled environment. If drone will fly near the boundary: either get neighbours' consent, keep the drone far enough away, or rely on Pathway 2 if energy permits. |
-
----
-
 ## When Pathway 1 Is NOT Suitable
 
 | Scenario | Why P1 Doesn't Work | Alternative |
@@ -352,17 +303,11 @@ To utilise both pathways:
 
 ## Tips for Applicants
 
-1. **Sheltering reduces your consent burden.** For building operations, occupants inside with windows closed are sheltered. You only need consent from people physically outside in the controlled environment.
-
-2. **Design your consent form to mirror the TMI.** The verbal briefing requirements are specific — build them into the form as a checklist so you never miss an item.
+1. **Design your consent form to mirror the TMI.** The verbal briefing requirements are specific — build them into the form as a checklist so you never miss an item.
 
 3. **The observer's role changes under Pathway 1.** They shift from primarily "watching the drone" to primarily "watching the perimeter" — detecting and responding to uninvolved persons approaching the controlled environment.
 
-4. **Construction sites are natural controlled environments.** If your client already has fencing, gates, and sign-in procedures, you're halfway there.
-
-5. **Document everything from day one.** Every OONP mission gets a report, every consent form is filed, every near-miss is recorded. This builds a safety record that strengthens your reapplication after 12 months.
-
-6. **Talk to CASA early.** Book a pre-application meeting with the RPAS team before you submit. It's free and can save weeks of rework.
+4. **Document everything from day one.** Every OONP mission gets a report, every consent form is filed, every near-miss is recorded. This builds a safety record that strengthens your reapplication after 12 months.
 
 ---
 
