@@ -32,14 +32,21 @@ Specific regulatory references are cited inline.
 Always verify against current versions at casa.gov.au and legislation.gov.au.
 
 ---
-
-## 1. What is OONP and Why Does It Need Separate Approval?
+**Background — What is OONP & Why OONP Exists**
+Under standard operating conditions (CASR 101.238), an RPA must not be operated within 30 metres of any person who is not directly associated with the operation. "Directly associated" means the pilot, observers, and ground crew — people involved in controlling or navigating the RPA. It does not include actors, athletes, building occupants, event attendees, or members of the public. (defined by TMI 2024-01 — Definitions)
 
 [Your standard ReOC comes with two key restrictions on flying near people:]
-**CASR 101.245** sets minimum separation distances between your RPA and 
-people who aren't involved in the operation. Under standard conditions, 
-you need at least 30m from any person, or 15m if you have their written 
-consent.
+CASR 101.245(3) allows a ReOC holder to operate between 30m and 15m of a person if:
+
+- A risk assessment is completed
+- The person is briefed on risks and mitigations
+- The person provides written consent
+
+But this standard provision does not allow:
+
+- Operations closer than 15m to any person
+- Operations directly over any person
+- Operations in a populous area (CASR 101.280)
 
 **CASR 101.280** says you cannot operate over a populous area at a height 
 where, if something fails, the RPA can't clear the area. This is a strict 
@@ -66,16 +73,8 @@ Note: EX45/24 is a temporary exemption instrument (last update: 16 November 2025
 , currently set to expire on 31 July 2027. CASA may renew, replace, or fold it into 
 updated regulations before then. Always check the current status.
 
-Key concepts to introduce here (define per TMI):
-**Active participant** A person who is directly participating in the 
-activity the RPA is being operated for. This is broader than "directly 
-associated with the operation" (which only covers your RPA crew). This 
-includes people like performers being filmed, emergency 
-services personnel at a scene, or workers on a building being washed. 
-They are not flying the drone, but they are knowingly part of the activity 
-it supports.
-
-**Refer to:** TMI 2024-01 — Definitions
+**Approval Duration**
+OONP approvals are granted for a maximum of 12 months or until ReOC expiry, whichever is shorter. CASA has stated this is due to the "new and emergent nature of these operations."
 
 ---
 
