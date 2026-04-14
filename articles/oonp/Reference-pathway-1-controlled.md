@@ -29,10 +29,10 @@
 
 ---
 **What is Pathway 1?**
+
 Pathway 1 is the **controlled environment** pathway.
 
 The concept: if you can guarantee that **only** people who have given express written consent and are directly participating in the activity are present in the operational area, and you have **physical access control** to prevent anyone else from entering, CASA will consider approving operations closer than 15m — including flying **directly over** those people.
-
 
 
 ### Sheltering
