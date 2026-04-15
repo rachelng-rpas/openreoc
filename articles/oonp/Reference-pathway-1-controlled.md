@@ -20,7 +20,7 @@
   - [Capacity and Eligibility](#capacity-and-eligibility)
   - [Withdrawal of Consent](#withdrawal-of-consent)
   - [Record Retention](#record-retention)
-- [Pathway 1 vs Standard Consent](#extra-pathway-1-vs-standard-30m15m-consent)
+- [Pathway 1 vs Standard Consent](#differences-pathway-1-vs-standard-30m15m-consent)
 - [Combining Pathway 1 and Pathway 2](#combining-pathway-1-and-pathway-2)
 - [Operations Manual Requirements](#operations-manual-requirements)
 - [Tips / Common Mistakes](#tips--common-mistakes)
@@ -151,7 +151,7 @@ Consent forms must be securely stored and retained per CASA approval conditions 
 
 ---
 
-## Extra: Pathway 1 vs Standard 30m–15m Consent
+## Differences: Pathway 1 vs Standard 30m–15m Consent
 
 | | Standard Consent (CASR 101.245(3)) | Pathway 1 (TMI OONP) |
 |---|---|---|
