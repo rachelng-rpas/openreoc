@@ -6,6 +6,26 @@
 
 
 
+### 4. Minimum Height
+
+An RPA operated within **15m horizontally** of a person must not be operated at a height **less than 3m** above the height of the person.
+
+**Exceptions:** this restriction may not apply if:
+- The RPA has **no exposed rotating parts**, OR
+- The RPA has a **functional obstacle avoidance system** that restricts it from operating within 5m of a person
+
+### 5. 1:1 Ratio and Exposed Rotating Parts
+
+Within the 1:1 ratio zone: no exposed rotating parts that could lacerate skin (or PRS that stops props on deployment).
+
+### 6. Speed Restrictions (If Used as a Mitigation)
+
+If speed restrictions are claimed as a safety mitigation:
+- Must be set to **prevent the pilot from exceeding** the restricted speed without an **intentional overriding action** (e.g., a physical mode switch)
+- In environments where signal interruption is probable (e.g., near buildings), account for the RPA possibly exceeding the restricted speed during autonomous manoeuvres (e.g., RTH)
+- 
+
+
 -
 ### Sheltering
 
