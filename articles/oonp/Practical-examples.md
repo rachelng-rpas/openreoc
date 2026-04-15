@@ -104,4 +104,4 @@ For building operations:
 - Do **not** require consent  
 - Only personnel **within the controlled environment** require consent  
 
-> 💡 Always notify occupants via building management to prevent unexpected exposure (e.g. opening windows or entering balconies).
+> Always notify occupants via building management to prevent unexpected exposure (e.g. opening windows or entering balconies).
