@@ -20,6 +20,7 @@
 | 11 Apr 2026 | Continued document review and began drafting overview guide | See [OONP Overview and Pathways] |
 | 12 Apr 2026 | ConOps — 5-page standalone document for CASA | 1st draft |
 | 14 Apr 2026 | Gone through pathway 1 details, procedures&requirements. Drafting pathway 1 guide | 1st draft |
+| 15 Apr 2026 | Gone through pathway 2 details, procedures&requirements. Drafting pathway 2 guide | 1st draft |
 
 
 ### Development (in progress)
