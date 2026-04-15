@@ -15,7 +15,7 @@
 5. [Operations Manual Updates](Step-03-ops-manual-updates.md) *(coming soon)*
 6. [Supporting Documents](Step-04-supporting-documents.md) *(coming soon)*
 7. [Submission and Approval Process](Step-05-submission-and-process.md) *(coming soon)*
-8. [Practical examples on selecting pathway 1 or 2](Practical-examples.md)
+8. [OONP pathway selection matrix with practical examples](pathway-selection-matrix-and-examples.md)
 
 ---
 
