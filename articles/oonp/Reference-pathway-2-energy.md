@@ -1,5 +1,3 @@
-# VERY FIRST DRAFT, DO NOT REFER TO YET
-
 # OONP Pathway 2 — Energy-Based Operations (Unlikely to Cause Serious Harm)
 
 > **Understanding CASA's TMI 2024-01 Pathway 2 for Operations Over or Near People**
@@ -11,8 +9,20 @@
 ---
 
 ## Contents
-
-
+- [What is Pathway 2?](#what-is-pathway-2)
+- [Quick Decision Checklist](#quick-decision-checklist)
+- [Understanding Impact Energy](#understanding-impact-energy)
+- [Energy Thresholds Summary](#energy-thresholds-summary)
+- [When to Use Pathway 2 vs Pathway 1](#when-to-use-pathway-2-vs-pathway-1)
+- [Operational Limitations and Requirements](#operational-limitations-and-requirements)
+  - [Protection from laceration](#1-protection-from-laceration)
+  - [Speed restriction requirements](#2-speed-restriction-requirements-if-used-as-a-mitigation)
+  - [Failure mode considerations](#3-failure-mode-considerations)
+- [Energy Reduction Methods](#energy-reduction-methods)
+- [Consent Under Pathway 2 (15–34 J)](#consent-under-pathway-2-1534-j)
+- [Fleet Energy Register](#fleet-energy-register)
+- [Operations Manual Requirements](#operations-manual-requirements)
+- [Common Mistakes](#common-mistakes)
 
 ---
 
@@ -25,6 +35,7 @@ Unlike Pathway 1, you **do not need a controlled environment** and you **do not 
 This makes Pathway 2 the go-to pathway for operations where members of the public may be present and cannot be excluded: events, public spaces, occupied buildings, and similar environments.
 
 ---
+
 ## Quick Decision Checklist
 
 Use this before selecting Pathway 2 for a mission:
@@ -52,6 +63,7 @@ The formula is straightforward:
 ```
 Kinetic Energy (joules) = ½ × mass (kg) × velocity² (m/s)
 ```
+
 
 A drone's total impact energy is usually a **combination of**:
 
@@ -123,8 +135,9 @@ Operations within the 1:1 ratio zone, the RPA must **not** have exposed rotating
 
 > The horizontal distance between the RPA and a person must be at least equal to the RPA’s height above that person.
 
-**Acceptable solutions** could be
-> Propeller guards (physically cover the blades)
+**Acceptable solutions** could be:
+
+> Propeller guards (physically cover the blades)  
 > Parachute Recovery System (PRS) (**stop propeller rotation** when deployed)
 
 For example, if your RPA is at **10 m AGL**, then it has to be at least **10 m horizontally** away from any person. You can't operate closer than 10 m from people, unless the RPA has no exposed rotating parts capable of lacerating human skin. In this case, if you could incorporate a parachute system that stops propeller rotation upon parachute activation, then it is taken to meet this requirement.
@@ -132,16 +145,15 @@ For example, if your RPA is at **10 m AGL**, then it has to be at least **10 m h
 ***Additional Height Rule (Within 15 m)***
 
 If operating **within 15 m horizontally** of a person, the RPA must be at least **3 m above the person’s height**, unless:
-  - The RPA has **no exposed rotating parts**, **or**
-  - The RPA has a functional **obstacle avoidance system** that prevents it from coming within 5 m horizontally
+- The RPA has **no exposed rotating parts**, **or**
+- The RPA has a functional **obstacle avoidance system** that prevents it from coming within 5 m horizontally
 
 ---
 
 Solutions:
 
-- **Propeller guards** — physically cover the propellers
+- **Propeller guards** — physically cover the propellers  
 - **Parachute Recovery System (PRS)** — must stop propeller rotation upon activation (the TMI states that PRS systems that stop rotation are "taken to meet this requirement")
-
 
 > **Practical implication:** For most multirotor operations near people at close range, you need either prop guards, ducted propellers, or a reliable obstacle avoidance system.
 
@@ -172,8 +184,6 @@ CASA assumes **all kinetic energy is transferred to the person** on impact unles
 ---
 
 ## Energy Reduction Methods
-
-There are a few ways to keep the energy level below the threshold.
 
 ### Parachute recovery systems
 
@@ -225,7 +235,6 @@ Before consent is given, the operator's personnel must brief each consenting per
 
 > **Note on TMI language:** The TMI uses "should" (not "must") for several Pathway 2 consent items: documented procedures, capacity methods, recording consent. That's softer language than Pathway 1's "must." But in practice, if CASA might expect to see all of these addressed. Treat the "should" items as requirements for the purposes of your manual, it's much easier to document them upfront than to explain their absence during an audit.
 
-
 ### How consent is obtained
 
 Unlike Pathway 1, there is **no requirement for written consent** under Pathway 2. However, the TMI states the operator should have documented practices and procedures that detail:
@@ -258,10 +267,10 @@ Unlike Pathway 1, there is **no requirement for written consent** under Pathway 
 
 > Where a minor (under 18) is present within the Pathway 2 operational area and impact energy exceeds 15 J, the following applies:
 >
-> 1. The minor's legal guardian must be present on site
-> 2. The guardian receives the standard Pathway 2 briefing
-> 3. The guardian is informed that they are consenting on behalf of the minor
-> 4. The guardian's consent is recorded (name of guardian, name of minor, relationship, time)
+> 1. The minor's legal guardian must be present on site  
+> 2. The guardian receives the standard Pathway 2 briefing  
+> 3. The guardian is informed that they are consenting on behalf of the minor  
+> 4. The guardian's consent is recorded (name of guardian, name of minor, relationship, time)  
 > 5. The CRP assesses whether additional mitigations are warranted (e.g., increased separation distance, additional observer attention to the minor's location)
 
 ### Withdrawal of consent
@@ -284,13 +293,13 @@ Consent records (whether written forms, sign-in sheets, or notes of verbal conse
 
 For each RPA and configuration used in OONP operations, you need a completed **energy worksheet** filed in a Fleet Energy Register. This should include:
 
-- RPA model and serial number
-- Configuration (standard battery, extended battery, accessories, parachute)
-- Total mass in each configuration
-- Permitted flight modes for OONP and the maximum speed for each mode
-- Calculated total energy (kinetic + potential energy)
-- Any failure-mode energy calculations
-- Date of calculation and sign-off by CRP
+- RPA model and serial number  
+- Configuration (standard battery, extended battery, accessories, parachute)  
+- Total mass in each configuration  
+- Permitted flight modes for OONP and the maximum speed for each mode  
+- Calculated total energy (kinetic + potential energy)  
+- Any failure-mode energy calculations  
+- Date of calculation and sign-off by CRP  
 
 New RPA or configurations must have energy calculations completed **before** the first OONP operation.
 
@@ -300,31 +309,28 @@ New RPA or configurations must have energy calculations completed **before** the
 
 Your Operations Manual must document:
 
-- **Energy calculation methodology** — how you calculate impact energy, what assumptions you use, what failure modes you consider
-- **Fleet Energy Register** — a maintained register of energy calculations for each RPA and configuration
-- **Pathway Selection Matrix** — how the CRP determines the applicable pathway for each mission
-- **Speed restriction procedures** — which flight modes are approved, how the restriction is enforced
-- **Laceration protection** — how you comply with the rotating parts requirements
-- **Consent procedures** (if operating 15–34 J) — briefing process, how consent is obtained and recorded
-- **OONP Pre-Flight Checklist** — confirming energy-related settings before each flight
-- **OONP Mission Report** — post-flight record for each OONP operation
+- **Energy calculation methodology** — how you calculate impact energy, what assumptions you use, what failure modes you consider  
+- **Fleet Energy Register** — a maintained register of energy calculations for each RPA and configuration  
+- **Pathway Selection Matrix** — how the CRP determines the applicable pathway for each mission  
+- **Speed restriction procedures** — which flight modes are approved, how the restriction is enforced  
+- **Laceration protection** — how you comply with the rotating parts requirements  
+- **Consent procedures** (if operating 15–34 J) — briefing process, how consent is obtained and recorded  
+- **OONP Pre-Flight Checklist** — confirming energy-related settings before each flight  
+- **OONP Mission Report** — post-flight record for each OONP operation  
 
 ---
 
 ## Common Mistakes
 
-- **Calculating energy with horizontal speed only.** You must include vertical kinetic energy from the RPA's altitude. A drone at 50 m AGL falling at terminal velocity has significant vertical energy even at zero horizontal speed.
-- **Ignoring failure modes.** CASA expects your energy calculation to cover the worst credible scenario, not just normal flight. If GNSS loss could cause a fly-away at Sport Mode speed, that's your energy figure, not Cine Mode.
-- **Using Cine Mode but not verifying it's system-enforced.** If the pilot can accidentally bump the mode switch mid-flight and go to full speed, the energy calculation must use full speed.
-- **Assuming Pathway 2 means "no rules."** You still need an observer, documented procedures, risk assessments, and CASA approval. The energy threshold replaces consent, not safety management.
-- **Not recalculating when accessories change the mass.** Adding a parachute, extended battery, or prop guards changes the mass and therefore the energy figure.
+- **Calculating energy with horizontal speed only.** You must include vertical kinetic energy from the RPA's altitude. A drone at 50 m AGL falling at terminal velocity has significant vertical energy even at zero horizontal speed.  
+- **Ignoring failure modes.** CASA expects your energy calculation to cover the worst credible scenario, not just normal flight. If GNSS loss could cause a fly-away at Sport Mode speed, that's your energy figure, not Cine Mode.  
+- **Using Cine Mode but not verifying it's system-enforced.** If the pilot can accidentally bump the mode switch mid-flight and go to full speed, the energy calculation must use full speed.  
+- **Assuming Pathway 2 means "no rules."** You still need an observer, documented procedures, risk assessments, and CASA approval. The energy threshold replaces consent, not safety management.  
+- **Not recalculating when accessories change the mass.** Adding a parachute, extended battery, or prop guards changes the mass and therefore the energy figure.  
 
 ---
 
 *This guide is part of the [OpenReOC](https://github.com/rachelng-rpas/openreoc) project — open-access CASA ReOC guidance for Australian RPAS operators.*
-
-
-
 
 
 
