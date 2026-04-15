@@ -314,20 +314,10 @@ Your Operations Manual must document:
 ## Common Mistakes
 
 - **Calculating energy with horizontal speed only.** You must include vertical kinetic energy from the RPA's altitude. A drone at 50 m AGL falling at terminal velocity has significant vertical energy even at zero horizontal speed.
-- **Ignoring failure modes.** CASA expects your energy calculation to cover the worst credible scenario, not just normal flight. If GNSS loss could cause a fly-away at Sport Mode speed, that's your energy figure — not Cine Mode.
+- **Ignoring failure modes.** CASA expects your energy calculation to cover the worst credible scenario, not just normal flight. If GNSS loss could cause a fly-away at Sport Mode speed, that's your energy figure, not Cine Mode.
 - **Using Cine Mode but not verifying it's system-enforced.** If the pilot can accidentally bump the mode switch mid-flight and go to full speed, the energy calculation must use full speed.
 - **Assuming Pathway 2 means "no rules."** You still need an observer, documented procedures, risk assessments, and CASA approval. The energy threshold replaces consent, not safety management.
 - **Not recalculating when accessories change the mass.** Adding a parachute, extended battery, or prop guards changes the mass and therefore the energy figure.
-
----
-
-## Related Resources
-
-- [CASA TMI 2024-01 — RPA Operations Over or Near People](https://www.casa.gov.au) (full text)
-- CASR Part 101 — Unmanned Aircraft and Rockets
-- ASTM F3322-18 — Standard Specification for sUAS Parachutes
-- EASA MOC Light-UAS.2512-01 — M2 Means of Compliance
-- JARUS SORA Package (JAR_doc_09)
 
 ---
 
