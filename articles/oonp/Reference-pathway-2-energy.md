@@ -317,7 +317,6 @@ Your Operations Manual must document:
 - **Ignoring failure modes.** CASA expects your energy calculation to cover the worst credible scenario, not just normal flight. If GNSS loss could cause a fly-away at Sport Mode speed, that's your energy figure — not Cine Mode.
 - **Using Cine Mode but not verifying it's system-enforced.** If the pilot can accidentally bump the mode switch mid-flight and go to full speed, the energy calculation must use full speed.
 - **Assuming Pathway 2 means "no rules."** You still need an observer, documented procedures, risk assessments, and CASA approval. The energy threshold replaces consent, not safety management.
-- **Forgetting the populous area exemption.** Just like Pathway 1, if you're operating in a populous area, you still need an exemption under regulation 101.280(2). The OONP approval covers regulations 101.245 and Direction 7 — not 101.280.
 - **Not recalculating when accessories change the mass.** Adding a parachute, extended battery, or prop guards changes the mass and therefore the energy figure.
 
 ---
