@@ -191,7 +191,7 @@ To utilise both pathways:
 
 ## Operations Manual Requirements
 
-For a step-by-step guide on updating your Operations Manual, see: [Step 03 — Updating Your Operations Manual for OONP](../step-03-ops-manual-update.md)
+For a step-by-step guide on updating your Operations Manual, see: [Step-03-ops-manual-updates](Step-03-ops-manual-updates.md)
 
 Next section, we will cover what procedures and documents should be included in your operation manuals.
 
