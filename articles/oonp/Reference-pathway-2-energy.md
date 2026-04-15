@@ -38,17 +38,54 @@ This makes Pathway 2 the go-to pathway for operations where members of the publi
 
 ## Quick Decision Checklist
 
-Use this before selecting Pathway 2 for a mission:
+Use this to determine if **Pathway 2 is suitable** for the mission:
+
+### Step 1 — Energy Eligibility (GO / NO-GO)
 
 - [ ] Have you completed an energy calculation for this specific RPA + configuration?
-- [ ] Is the total impact energy (horizontal + vertical, worst credible case) ≤ 15 J (no consent) or ≤ 34 J (with consent)?
-- [ ] Is speed restriction system-enforced (not relying on pilot discipline)?
+- [ ] Is the total impact energy (horizontal + vertical, worst credible case):
+  - ≤ 15 J → **Pathway 2 permitted (no consent)**  
+  - ≤ 34 J → **Pathway 2 permitted (with consent)**  
+  - > 34 J → **Pathway 2 NOT permitted**
+
+> If **> 34 J**, use Pathway 1 or Pathway 3.
+
+---
+
+### Step 2 — System & Aircraft Capability
+
+- [ ] Is speed restriction **system-enforced** (not relying on pilot discipline)?
+- [ ] Does the RPA comply with **laceration protection requirements** at the planned proximity?
+
+> If **no**, Pathway 2 is not compliant → modify configuration or use another pathway.
+
+---
+
+### Step 3 — Operational Risk Assessment
+
 - [ ] Have you assessed failure modes (GNSS loss, fly-away, battery failure)?
-- [ ] Does the RPA comply with laceration protection requirements at the planned proximity?
-- [ ] If operating 15–34 J: have you obtained informed consent and documented it?
-- [ ] Have you assessed whether a populous area exemption (reg 101.280) is also required?
-- [ ] Is the energy calculation filed in the Fleet Energy Register?
-- [ ] Is the OONP Pre-Flight Checklist updated for this configuration?
+- [ ] Have you considered environmental factors (wind, urban interference, RTH behaviour)?
+
+---
+
+### Step 4 — Consent (Only if 15–34 J)
+
+- [ ] If operating **15–34 J**: have you obtained informed consent and documented it?
+
+---
+
+### Step 5 — Documentation & Approval Readiness
+
+- [ ] Is the energy calculation filed in the **Fleet Energy Register**?
+- [ ] Is the **OONP Pre-Flight Checklist** updated for this configuration?
+- [ ] Have you assessed whether a **populous area exemption (CASR 101.280)** is required?
+
+---
+
+### Final Decision
+
+- If **Step 1 passes** and all relevant steps above are satisfied → **Pathway 2 is suitable**
+- If **any critical item fails** → consider Hybrid approach
 
 ---
 
