@@ -1,5 +1,3 @@
-# VERY FIRST DRAFT, DO NOT REFER TO YET
-
 # OONP Pathway 1 — Controlled Environment
 
 > **Understanding CASA's TMI 2024-01 Pathway 1 for Operations Over or Near People**
