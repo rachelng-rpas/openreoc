@@ -11,18 +11,17 @@
 ---
 
 ## Contents
-
 - [What is Pathway 1?](#what-is-pathway-1)
+- [Quick Decision Checklist](#quick-decision-checklist)
 - [Conditions for Pathway 1 Approval](#conditions-for-pathway-1-approval)
+- [Controlled Environment](#2-controlled-environment)
 - [The Consent Process](#the-consent-process)
-- [Operating Rules Within a Controlled Environment](#operating-rules-within-a-controlled-environment)
-- [Sheltering — How It Works With Pathway 1](#sheltering--how-it-works-with-pathway-1)
-- [Practical Examples](#practical-examples)
-- [When Pathway 1 Is NOT Suitable](#when-pathway-1-is-not-suitable)
-- [Pathway 1 vs Standard 30m–15m Consent](#pathway-1-vs-standard-30m15m-consent)
-- [What CASA Looks For in an Application](#what-casa-looks-for-in-an-application)
-- [Combining Pathway 1 with Pathway 2](#combining-pathway-1-with-pathway-2)
-- [Tips for Applicants](#tips-for-applicants)
+- [Pre-consent Verbal Briefing](#pre-consent-verbal-briefing)
+- [Written Consent Document](#written-consent-document)
+- [Pathway 1 vs Standard Consent](#extra-pathway-1-vs-standard-30m15m-consent)
+- [Combining Pathway 1 and Pathway 2](#combining-pathway-1-and-pathway-2)
+- [Operations Manual Requirements](#operations-manual-requirements-for-more-details-refer-to-step-03)
+- [Tips / Common Mistakes](#tips--common-mistakes)
 
 ---
 
@@ -192,7 +191,9 @@ To utilise both pathways:
 
 ---
 
-## Operations Manual Requirements (For more details, refer to: Step-03)
+## Operations Manual Requirements
+
+For a step-by-step guide on updating your Operations Manual, see: [Step 03 — Updating Your Operations Manual for OONP](../step-03-ops-manual-update.md)
 
 Next section, we will cover what procedures and documents should be included in your operation manuals.
 
