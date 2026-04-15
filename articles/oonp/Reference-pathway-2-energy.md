@@ -1,6 +1,16 @@
-> Still drafting
+# VERY FIRST DRAFT, DO NOT REFER TO YET
 
+# OONP Pathway 2 — Energy
 
+> **Understanding CASA's TMI 2024-01 Pathway 2 for Operations Over or Near People**
+>
+> **Last updated:** 15 April 2026
+> 
+> **Regulatory basis:** TMI 2024-01, CASR 101.245, CASR 101.280, CASA EX45/24
+
+---
+
+## Contents
 
 
 
