@@ -163,26 +163,88 @@ Sheltering uses a physical structure to protect people from impact. Requirements
 
 If your RPA exceeds 15 J but stays within 34 J, you can still use Pathway 2, but you need **informed consent** from the persons you're operating near.
 
-### Briefing requirements (before consent)
+Pathway 2 consent is deliberately **lighter** than Pathway 1 (with fewer formal requirements). The energy is lower, so the risk profile is lower. But "lighter" doesn't mean "casual", you still need a documented, repeatable process.
 
-The operator's personnel must brief each consenting person on:
+### Pre-consent briefing
 
-1. The proposed RPA flight paths
-2. Risk to life, including potential injury probability and severity
-3. Emergency procedures and the response plan
-4. Safety mitigations in place
-5. Their right to refuse consent
+Before consent is given, the operator's personnel must brief each consenting person on:
+
+1. The **proposed RPA flight paths** — where the drone will fly relative to them
+2. The **risk to life** — including details of potential injury probability and severity. At 15–34 J, the risk of serious injury exists but fatality is unlikely. Be honest and specific — don't minimise, but don't overstate either.
+3. **Emergency procedures** and the emergency response plan — what happens if something goes wrong, and what the person should do
+4. **Safety mitigations** implemented to control harm and risk — speed restrictions, observer, access control, etc.
+5. Their **right to not consent** — participation must be voluntary and unpressured
+
+> **Note:** Compare this to Pathway 1's briefing, which includes two additional briefing items: the 30 m separation rule disclosure and the explicit fatality statement for >34 J energy. Those aren't required here because Pathway 2 consent applies only in the 15–34 J range, which is below the fatality threshold.
 
 ### Key differences from Pathway 1 consent
 
 | Aspect | Pathway 1 | Pathway 2 (15–34 J) |
 |---|---|---|
-| **Consent format** | Must be written | No written requirement (but document how consent was obtained) |
-| **Age limit** | 18+ only | No age limit — guardian can consent on behalf of a minor |
+| **Consent format** | Must be written and signed | No written requirement — verbal acceptable if documented |
+| **Briefing items** | 6 items (includes 30 m rule and fatality statement) | 5 items (no 30 m rule or fatality statement — energy is below that threshold) |
+| **Age limit** | 18+ only, no exceptions | No age limit — guardian can consent for minors |
 | **Proxy consent** | Not permitted | Permitted by legal guardian |
-| **Capacity check** | Required | Required — operator must have a documented method |
+| **Capacity check** | Required | Required — plus documented procedure for minors/reduced capacity |
+| **Who can brief** | Must have appropriate experience | Must have appropriate experience |
+| **Withdrawal** | Should be permitted | Should be permitted |
 
 > **Important:** Operations involving minors or persons with reduced capacity carry a **higher risk profile**. The TMI explicitly requires the operator to have a documented procedure addressing this.
+
+> **Note on TMI language:** The TMI uses "should" (not "must") for several Pathway 2 consent items: documented procedures, capacity methods, recording consent. That's softer language than Pathway 1's "must." But in practice, if CASA might expect to see all of these addressed. Treat the "should" items as requirements for the purposes of your manual, it's much easier to document them upfront than to explain their absence during an audit.
+
+
+### How consent is obtained
+
+Unlike Pathway 1, there is **no requirement for written consent** under Pathway 2. However, the TMI states the operator should have documented practices and procedures that detail:
+
+- **How persons will be adequately briefed** prior to providing informed consent
+- **How consent was obtained** — verbal consent is acceptable, but you need a record of it
+- **Who can deliver the briefing** — personnel must hold appropriate experience to ensure the briefing is adequate
+
+**Practical options for recording consent:**
+
+| Method | When it works | Considerations |
+|---|---|---|
+| **Verbal consent with witness** | Small groups, informal settings (e.g., wedding party) | Record the person's name, time, who witnessed, and that the briefing was delivered |
+| **Verbal consent recorded on a sign-in sheet** | Events, group briefings | Person signs or initials next to their name after the verbal briefing |
+| **Written consent form** (voluntary) | Higher-risk operations, commercial clients who expect paperwork | Not required by the TMI, but provides stronger evidence of compliance |
+| **Audio/video recording of briefing and consent** | Large groups where individual signatures are impractical | Ensure privacy requirements are met |
+
+> **Tip:** Even though written consent isn't mandatory, having *something on paper* makes your life easier if CASA audits you or if there's an incident. A simple sign-in sheet with a printed statement and signature line is low-effort and high-value.
+
+### Capacity and eligibility
+
+- **Age:** There is **no age limit** under Pathway 2 consent. A legal guardian can consent on behalf of a minor (under 18). This is a significant difference from Pathway 1, where minors are excluded entirely.
+- **Proxy consent:** Permitted — a legal guardian can consent on behalf of a minor or a person who lacks capacity.
+- **Capacity:** Adults are assumed to have capacity, but the operator must have a method to ensure consent is not accepted from a person lacking capacity. If a person lacks capacity, consent must be obtained from their legal guardian. A person with capacity will understand and retain the information, understand the choices and consequences, weigh them up, and communicate a decision freely and voluntarily.
+- **Minors and reduced capacity:** The TMI explicitly states that operations involving minors or persons with reduced capacity have a **higher risk profile**. Your Operations Manual must include a documented procedure addressing how you manage these situations — it's not enough to just say "guardian can consent."
+
+---
+
+**Example procedure for minors:**
+
+> Where a minor (under 18) is present within the Pathway 2 operational area and impact energy exceeds 15 J, the following applies:
+>
+> 1. The minor's legal guardian must be present on site
+> 2. The guardian receives the standard Pathway 2 briefing
+> 3. The guardian is informed that they are consenting on behalf of the minor
+> 4. The guardian's consent is recorded (name of guardian, name of minor, relationship, time)
+> 5. The CRP assesses whether additional mitigations are warranted (e.g., increased separation distance, additional observer attention to the minor's location)
+
+### Withdrawal of consent
+
+A person (or their guardian) should be able to withdraw consent at any time. Your procedures should address:
+
+- How a person signals they want to withdraw (tells crew, leaves the area)
+- Whether operations pause or the RP adjusts the flight path to maintain separation
+- How the withdrawal is recorded
+
+> **Practical reality:** At events, people move in and out of the operational area constantly. Your procedures should account for the fact that "consent" at an event is often tied to a person's voluntary presence in a briefed area, rather than a locked-in commitment. If someone moves away, that's effectively withdrawal — and if they come back, a re-brief may be needed.
+
+### Record retention
+
+Consent records (whether written forms, sign-in sheets, or notes of verbal consent) should be stored securely and retained for the period specified in your CASA approval instrument. If no period is specified, retain for at least **12 months** as a minimum good practice — this aligns with typical CASA data collection and reporting requirements for OONP operations.
 
 ---
 
