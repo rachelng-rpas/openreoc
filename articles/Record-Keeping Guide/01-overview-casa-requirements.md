@@ -1,6 +1,8 @@
-# Still drafting DO NOT REFER YET
-
 # 01 — Overview: CASA Record-Keeping Requirements
+
+Last reviewed: 18 April 2026
+
+---
 
 ## Why Does CASA Require Records?
 
