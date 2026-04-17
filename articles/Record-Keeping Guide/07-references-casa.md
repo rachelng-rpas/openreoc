@@ -17,11 +17,9 @@ Key regulations referenced in this guide:
 
 | Regulation | Topic |
 |---|---|
-| 101.295 | ReOC holder must comply with MOS 101 |
-| 101.335 | Requirement to maintain an operations manual |
-| 101.340 | Chief Remote Pilot — appointment and responsibilities |
-| 101.342 | Personnel requirements, including records of qualifications |
-| 101.345 | Obligation to keep records in accordance with MOS 101 |
+| **101.272** | Obligation to keep records in accordance with MOS 101 |
+| **101.342** | CRP requirements — including record of qualifications |
+| **101.335** | Requirement to maintain an operations manual |
 
 **Where to find it:** [Federal Register of Legislation — CASR Part 101](https://www.legislation.gov.au/Series/F1998B00220)
 
