@@ -4,7 +4,7 @@
 
 ## Why Does CASA Require Records?
 
-CASA requires certified RPA operators (ReOC holders) to maintain records for three core reasons:
+CASA requires RPA operators and ReOC holders to maintain records for few reasons:
 
 1. **Safety**: Records provide a documented trail of who flew what, where, when, and under what conditions. If something goes wrong, these records help investigators piece together what happened.
 
@@ -24,11 +24,9 @@ These are the legally enforceable rules. Key regulations include:
 
 | Regulation | What It Covers |
 |---|---|
-| **101.295** | ReOC holder must comply with the Manual of Standards (MOS 101) |
+| **101.272** | Obligation to keep records in accordance with MOS 101 |
+| **101.342** | CRP requirements — including record of qualifications |
 | **101.335** | Requirement to maintain an operations manual |
-| **101.340** | ReOC holder must have a CRP; CRP responsibilities |
-| **101.342** | Personnel requirements — including record of qualifications |
-| **101.345** | Obligation to keep records in accordance with MOS 101 |
 
 ### MOS 101 Chapter 10 (the Manual of Standards)
 
@@ -45,7 +43,7 @@ Key sections:
 | **s10.07** | RPAS technical log (maintenance and serviceability records) |
 | **s10.08** | Training of non-RP crew (observers, ground handlers, etc.) |
 
-> **Note:** MOS 101 Chapter 10 also covers RePL training provider records (s10.09 onwards), but these apply to flight training organisations, not typical ReOC operators. This guide deliberately excludes RePL training provider requirements — they are a separate, complex topic that may be covered in a future project.
+> **Note:** MOS 101 Chapter 10 also covers RePL training provider records (s10.03A), but these apply to RePL training organisations, not typical ReOC operators. This guide deliberately excludes RePL training provider requirements as they are a separate, complex topic that may be covered in a future guides.
 
 ## Who Is Responsible?
 
@@ -53,7 +51,7 @@ Record-keeping responsibility sits primarily with two parties:
 
 ### The ReOC Holder (the Organisation)
 
-The ReOC holder — the entity named on the certificate — has the overarching legal obligation to keep records. This is established by CASR 101.345. The ReOC holder must ensure that systems, templates, and processes are in place.
+The ReOC holder, the entity named on the certificate has the overarching legal obligation to keep records. The ReOC holder must ensure that systems, templates, and processes are in place (CASR 101.345).
 
 ### The Chief Remote Pilot (CRP)
 
