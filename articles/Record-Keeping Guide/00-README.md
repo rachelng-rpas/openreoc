@@ -28,7 +28,7 @@ This documentation package explains:
 
 **Start here** → Read [01-overview-casa-requirements](01-overview-casa-requirements.md) to understand what CASA expects.
 
-**Understand the records** → Read [02-types-of-records](02-types-of-records.md) to learn what each record type is and who keeps it.
+**Understand the records** → Read [02-types-of-records](02-record-types.md) to learn what each record type is and who keeps it.
 
 **Set up your system** → Follow [03-implementation-guide](03-implementation-guide.md) to build your filing structure.
 
