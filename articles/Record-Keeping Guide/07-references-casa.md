@@ -21,7 +21,7 @@ Key regulations referenced in this guide:
 | **101.342** | CRP requirements — including record of qualifications |
 | **101.335** | Requirement to maintain an operations manual |
 
-**Where to find it:** [Federal Register of Legislation — CASR Part 101](https://www.legislation.gov.au/Series/F1998B00220)
+**Where to find it:** [[CASR 101](https://www.legislation.gov.au/F1998B00220/latest/text/3)]
 
 ### MOS 101
 
