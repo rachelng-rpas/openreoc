@@ -16,6 +16,8 @@ CASA requires RPA operators and ReOC holders to maintain records for few reasons
 
 Think of it this way: if CASA knocked on your door tomorrow and asked to see your records for the last three years, could you produce them? Would they be complete, organised, and accurate? That's the standard you're aiming for.
 
+--- 
+
 ## Where Are the Requirements Found?
 
 Record-keeping requirements for ReOC holders come from two main sources:
@@ -30,7 +32,7 @@ These are the legally enforceable rules. Key regulations include:
 | **101.342** | CRP requirements — including record of qualifications |
 | **101.335** | Requirement to maintain an operations manual |
 
-### MOS 101 Chapter 10 (the Manual of Standards)
+### MOS 101 - Chapter 10
 
 MOS 101 Chapter 10 is where the detailed, specific record-keeping requirements live. This is the operational "how" behind the regulatory "what."
 
@@ -46,6 +48,10 @@ Key sections:
 | **s10.08** | Training of non-RP crew (observers, ground handlers, etc.) |
 
 > **Note:** MOS 101 Chapter 10 also covers RePL training provider records (s10.03A), but these apply to RePL training organisations, not typical ReOC operators. This guide deliberately excludes RePL training provider requirements as they are a separate, complex topic that may be covered in a future guides.
+
+For details on what is referenced, **please refer to:** Use [07-references-casa-sourses](07-references-casa.md) for regulatory references.
+
+---
 
 ## Who Is Responsible?
 
@@ -73,6 +79,8 @@ Individual remote pilots are responsible for:
 - Completing their personal remote pilot log (s10.06)
 - Completing post-flight entries in the operational log (s10.05)
 - Reporting any incidents or unserviceability to the CRP and MC
+
+---
 
 ## How Long Do You Keep Records?
 
@@ -112,6 +120,7 @@ Operations Manual (defines your procedures)
         │
         └── RPAS Technical Log (s10.07) ─── aircraft maintenance & status
 ```
+
 
 Each record type supports the others. For example, the operational release references the pilot (who must appear in the personnel register), the aircraft (which must have a current technical log), and the location (which should have a JSA and RA on file).
 
