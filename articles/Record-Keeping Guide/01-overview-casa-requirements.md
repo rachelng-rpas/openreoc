@@ -6,7 +6,7 @@
 
 CASA requires certified RPA operators (ReOC holders) to maintain records for three core reasons:
 
-1. **Safety: Records provide a documented trail of who flew what, where, when, and under what conditions. If something goes wrong, these records help investigators piece together what happened.
+1. **Safety**: Records provide a documented trail of who flew what, where, when, and under what conditions. If something goes wrong, these records help investigators piece together what happened.
 
 2. **Accountability**: The Chief Remote Pilot (CRP) is personally responsible for the safe conduct of operations under the ReOC. Records prove that the CRP is managing operations, training, and maintenance properly.
 
