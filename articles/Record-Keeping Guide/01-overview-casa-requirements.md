@@ -51,18 +51,18 @@ Record-keeping responsibility sits primarily with two parties:
 
 ### The ReOC Holder (the Organisation)
 
-The ReOC holder, the entity named on the certificate has the overarching legal obligation to keep records. The ReOC holder must ensure that systems, templates, and processes are in place (CASR 101.345).
+The ReOC holder, the entity named on the certificate has the overarching legal obligation to keep records. The ReOC holder must ensure that systems, templates, and processes are in place (CASR 101.272).
 
 ### The Chief Remote Pilot (CRP)
 
 In practice, the CRP is the person who manages record keeping day-to-day. MOS 101 places specific obligations on the CRP, including:
 
 - Maintaining the operational release and operational log (s10.04, s10.05)
-- Keeping training records for all personnel, including non-RP crew (s10.03(2), s10.08)
+- Keeping training records and qualification for all personnel, including non-RP crew (s10.08)
 - Ensuring remote pilot logs are maintained (s10.06)
-- Overseeing technical log entries (s10.07)
+- Overseeing technical log entries (s10.07) (related to Maintenance Controller MC as well)
 
-For small operations — particularly sole-operator ReOCs — the ReOC holder, CRP, and remote pilot may all be the same person. The obligations still apply. You still need to keep records as if you were managing a team.
+For small operations particularly sole-operator ReOCs, the ReOC holder, CRP, MC and remote pilot may all be the same person. The obligations still apply. You still need to keep records as if you were managing a team.
 
 ### The Remote Pilot (RP)
 
@@ -70,7 +70,7 @@ Individual remote pilots are responsible for:
 
 - Completing their personal remote pilot log (s10.06)
 - Completing post-flight entries in the operational log (s10.05)
-- Reporting any unserviceability or incidents
+- Reporting any incidents or unserviceability to the CRP and MC
 
 ## How Long Do You Keep Records?
 
@@ -83,18 +83,9 @@ MOS 101 specifies the retention period:
 | RPAS technical log | **7 years** from the date of the entry | s10.07 |
 | Remote pilot log | **7 years** from the date of the entry | s10.06 |
 
-> **Practical tip:** The safest approach is to keep everything for **7 years from creation or last use**, whichever is later. When in doubt, don't delete — storage is cheap.
+> **Practical tip:** The safest approach is to keep everything for **7 years from creation or last use**, whichever is later. When in doubt, don't delete.
 
-## What Happens If You Don't Comply?
-
-Failure to keep adequate records can result in:
-
-- **CASA audit findings** — which can trigger corrective action requirements
-- **Conditions placed on your ReOC** — restricting your operations until issues are resolved
-- **Suspension or cancellation of your ReOC** — in serious or repeated cases
-- **Personal liability for the CRP** — the CRP can be held individually responsible for record-keeping failures
-
-Record keeping may seem like paperwork, but it's one of the first things CASA looks at during any audit or investigation. It's also one of the easiest things to get right with a simple, consistent system.
+---
 
 ## The Big Picture: How Records Fit Together
 
@@ -120,7 +111,7 @@ Operations Manual (defines your procedures)
         └── RPAS Technical Log (s10.07) ─── aircraft maintenance & status
 ```
 
-Each record type supports the others. For example, the operational release references the pilot (who must appear in the personnel register), the aircraft (which must have a current technical log), and the location (which should have a risk assessment on file).
+Each record type supports the others. For example, the operational release references the pilot (who must appear in the personnel register), the aircraft (which must have a current technical log), and the location (which should have a JSA and RA on file).
 
 When your records work as a system, compliance becomes much easier to maintain and demonstrate.
 
