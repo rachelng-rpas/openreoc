@@ -104,15 +104,14 @@ Records don't exist in isolation. They form an interconnected system:
 ```
 Operations Manual (defines your procedures)
         │
-        ├── Operational Release (s10.04) ─── pre-flight authorisation
-        │           │
+        ├── Operational Records ─── job details
+        │           └── Operational Release (s10.04) ─── pre-flight authorisation
         │           └── Operational Log (s10.05) ─── post-flight completion
-        │
-        ├── Supporting Documents (s10.03)
-        │       ├── Job Safety Analysis (JSA)
-        │       ├── Risk Assessment (RA)
-        │       └── Operational Flight Plan
-        │
+        │           └── Supporting Documents (s10.03)
+        |                   ├── Job Safety Analysis (JSA)
+        │                   ├── Risk Assessment (RA)
+        │                   └── Operational Flight Plan (if applicable)
+        │       
         ├── Personnel Register ─── who is qualified for what
         │       └── Training Log (s10.03(2)) ─── what training they received
         |       └── Qualification Log (s10.08) ─── Qualification and Training of crew (RP & non-RP)
