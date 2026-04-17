@@ -2,6 +2,9 @@
 
 This page lists the primary CASA regulatory documents referenced throughout this guide. Always check the Federal Register of Legislation and the CASA website for the most current versions.
 
+
+Last reviewed: 17 April 2026
+
 ---
 
 ## Primary Legislation and Standards
