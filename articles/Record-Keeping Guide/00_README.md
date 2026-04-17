@@ -24,15 +24,17 @@ This documentation package explains:
 
 ## How to Use This Guide
 
-**Start here** → Read `docs/01-overview-casa-requirements.md` to understand what CASA expects.
+**Start here** → Read [01-overview-casa-requirements](01-overview-casa-requirements.md) to understand what CASA expects.
 
-**Understand the records** → Read `docs/02-types-of-records.md` to learn what each record type is and who keeps it.
+**Understand the records** → Read [02-types-of-records](02-types-of-records.md) to learn what each record type is and who keeps it.
 
-**Set up your system** → Follow `docs/03-implementation-guide.md` to build your filing structure.
+**Set up your system** → Follow [03-implementation-guide](03-implementation-guide.md) to build your filing structure.
 
-**Use the templates** → Open the spreadsheets in `templates/` and follow `docs/04-using-the-templates.md`.
+**Use the templates** → Open the spreadsheets in `templates/` and follow [04-using-the-templates](04-using-the-templates.md).
 
-**Stay on top of it** → Use `docs/05-review-and-compliance.md` for ongoing checks and audits.
+**Stay on top of it** → Use [05-review-and-compliance](05-review-and-compliance.md) for ongoing checks and audits.
+
+---
 
 ## Key CASA References
 
@@ -44,6 +46,8 @@ This guide draws primarily from:
 - **Regulation 101.342(b)**: Personnel record requirements for ReOC holders
 
 All section references (e.g. "s10.04") refer to MOS 101 Chapter 10 unless stated otherwise.
+
+---
 
 ## Disclaimer
 
