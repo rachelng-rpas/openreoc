@@ -45,7 +45,7 @@ Key sections:
 | **s10.05** | RPAS operational log (post-flight record) |
 | **s10.06** | Remote pilot log (individual pilot's personal flight log) |
 | **s10.07** | RPAS technical log (maintenance and serviceability records) |
-| **s10.08** | Training of non-RP crew (observers, ground handlers, etc.) |
+| **s10.08** | Qualification of RP and Training of non-RP crew (observers, ground handlers, etc.) |
 
 > **Note:** MOS 101 Chapter 10 also covers RePL training provider records (s10.03A), but these apply to RePL training organisations, not typical ReOC operators. This guide deliberately excludes RePL training provider requirements as they are a separate, complex topic that may be covered in a future guides.
 
@@ -115,6 +115,7 @@ Operations Manual (defines your procedures)
         │
         ├── Personnel Register ─── who is qualified for what
         │       └── Training Log (s10.03(2)) ─── what training they received
+        |       └── Qualification Log (s10.08) ─── Qualification and Training of crew (RP & non-RP)
         │
         ├── Remote Pilot Log (s10.06) ─── individual pilot's flight history
         │
