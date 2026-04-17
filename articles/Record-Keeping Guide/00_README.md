@@ -2,6 +2,8 @@
 
 **A free, plain-English guide to CASA-compliant record keeping under CASR Part 101 and MOS 101 (Chapter 10).**
 
+Last reviewed: 17 April 2026
+
 ---
 
 ## Who Is This For?
