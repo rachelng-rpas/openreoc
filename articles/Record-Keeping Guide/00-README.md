@@ -36,18 +36,14 @@ This documentation package explains:
 
 **Stay on top of it** → Use [05-review-and-compliance](05-review-and-compliance.md) for ongoing checks and audits.
 
+
 ---
 
 ## Key CASA References
 
-This guide draws primarily from:
-
-- **CASR Part 101**: Civil Aviation Safety Regulations, Subpart 101.F (Certified RPA operators)
-- **MOS 101 Chapter 10**: Manual of Standards for Part 101, Chapter 10: Records and documents
-- **AC 101-01 v6.0**: Advisory Circular for unmanned aircraft and rockets
-- **Regulation 101.342(b)**: Personnel record requirements for ReOC holders
-
 All section references (e.g. "s10.04") refer to MOS 101 Chapter 10 unless stated otherwise.
+
+For details on what is referenced, **please refer to:** Use [07-references-casa-sourses](07-references-casa.md) for regulatory references.
 
 ---
 
