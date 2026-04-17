@@ -38,8 +38,6 @@ Key sections:
 
 | MOS 101 Section | What It Covers |
 |---|---|
-| **s10.01** | Purpose and scope — why records are required |
-| **s10.02** | Definitions and interpretation |
 | **s10.03** | General record-keeping requirements (what records to keep) |
 | **s10.04** | RPAS operational release (pre-flight authorisation record) |
 | **s10.05** | RPAS operational log (post-flight record) |
