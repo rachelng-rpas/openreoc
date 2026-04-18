@@ -43,7 +43,7 @@ This documentation package explains:
 
 All section references (e.g. "s10.04") refer to MOS 101 Chapter 10 unless stated otherwise.
 
-For details on what is referenced, **please refer to:** Use [07-references-casa-sourses](07-references-casa.md) for regulatory references.
+For details on what is referenced, **please refer to:** Use [06-references-casa-sourses](06-references-casa.md) for regulatory references.
 
 ---
 
