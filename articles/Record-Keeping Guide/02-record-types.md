@@ -4,7 +4,8 @@ This section breaks down every record type a ReOC holder needs to maintain. For 
 
 > **Important:** This guide covers ReOC operator records only. RePL training provider record-keeping requirements (MOS 101 s10.09 onwards) are a separate, complex topic and are not covered here.
 
-Last review date: 18 April 2026
+Last reviewed: 18 April 2026
+
 ---
 
 ## How Records Are Grouped
