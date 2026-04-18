@@ -32,7 +32,7 @@ This documentation package explains:
 
 **Set up your system** → Follow [03-implementation-guide](03-implementation-guide.md) to build your filing structure.
 
-**Use the templates** → Open the spreadsheets in `templates/` and follow [04-using-the-templates](04-using-the-templates.md).
+**Use the templates** → Open the spreadsheets in `Templates/` and amend it for your own record keeping system.
 
 **Stay on top of it** → Use [05-review-and-compliance](05-review-and-compliance.md) for ongoing checks and audits.
 
