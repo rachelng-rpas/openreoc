@@ -230,5 +230,5 @@ If you're a sole operator (ReOC holder, CRP, and only RP all in one), the system
 - Don't skip records just because you're the only one who sees them. CASA will also see them.
 
 ---
-
-**Next:** [04 — Using the Templates](04-using-the-templates.md) — field-by-field walkthrough of each template.
+ 
+**Next:** [04 — Review and Compliance](04-review-and-compliance.md) — how to maintain and audit your records.
