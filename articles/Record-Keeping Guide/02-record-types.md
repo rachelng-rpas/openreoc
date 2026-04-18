@@ -1,4 +1,4 @@
-# 02 — Types of Records
+# 02 — Record Types
 
 This section breaks down every record type a ReOC holder needs to maintain. For each type, we explain what it is, what must be included, who keeps it, how long to keep it, and a practical example.
 
