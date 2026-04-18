@@ -49,7 +49,7 @@ Key sections:
 
 > **Note:** MOS 101 Chapter 10 also covers RePL training provider records (s10.03A), but these apply to RePL training organisations, not typical ReOC operators. This guide deliberately excludes RePL training provider requirements as they are a separate, complex topic that may be covered in a future guides.
 
-For details on what is referenced, **please refer to:** Use [07-references-casa-sourses](07-references-casa.md) for regulatory references.
+For details on what is referenced, **please refer to:** Use [06-references-casa-sourses](06-references-casa.md) for regulatory references.
 
 ---
 
