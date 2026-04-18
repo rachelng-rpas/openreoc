@@ -34,7 +34,7 @@ This documentation package explains:
 
 **Use the templates** → Open the spreadsheets in `Templates/` and amend it for your own record keeping system.
 
-**Stay on top of it** → Use [05-review-and-compliance](05-review-and-compliance.md) for ongoing checks and audits.
+**Stay on top of it** → Use [04-review-and-compliance](04-review-and-compliance.md) for ongoing checks and audits.
 
 
 ---
