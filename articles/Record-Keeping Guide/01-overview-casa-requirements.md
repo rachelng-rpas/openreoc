@@ -128,4 +128,4 @@ When your records work as a system, compliance becomes much easier to maintain a
 
 ---
 
-**Next:** [02 — Types of Records](02-types-of-records.md) — detailed breakdown of every record type you need to keep.
+**Next:** [02 — Record Types](02-record-types.md) — detailed breakdown of every record type you need to keep.
