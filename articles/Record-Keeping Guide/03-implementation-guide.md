@@ -36,7 +36,12 @@ If you still prefer a paper approach for very low-volume operations, you can fol
 
 ## Option 2: Simple Digital System
 
-This is the recommended approach for most small operators. You don't need specialist software, cloud storage and spreadsheets are enough.
+This is the recommended approach for most small operators. You don't need specialist software, a combination of cloud storage and spreadsheets are enough.
+
+Common options include:
+- **Spreadsheets** (e.g. Google Sheets, Microsoft Excel) for operational records, personnel registers, and training logs  
+- **Cloud storage** (e.g. Google Drive, OneDrive, Dropbox) for storing supporting documents such as JSAs, RAs, and certificates  
+- **PDF scanning apps** (e.g. Adobe Scan, Microsoft Lens) for digitising paper forms on site  
 
 ### Platform Options
 
@@ -46,7 +51,18 @@ This is the recommended approach for most small operators. You don't need specia
 | Microsoft OneDrive + Excel Online | Free (basic) / included with Microsoft 365 | Better Excel compatibility. Good for operators already using Microsoft. |
 | Dropbox + spreadsheets | Free (basic) | Simple file storage. Less suited for collaborative editing. |
 
-Any of these will work. The important thing is to pick one and use it consistently.
+
+
+As your operation grows, you may consider:
+- **RPAS compliance platforms** (e.g. AVCRM) for integrated record management and automated reminders  
+- **Flight data tools** (e.g. AirData UAV) to automatically capture flight logs and aircraft usage  
+- **Database-style tools** (e.g. Notion, Airtable) for more structured and automated systems  
+
+When choosing tools, prioritise simplicity, consistency, accessibility, and reliable backup.
+
+Any of these options will work — the key is to select one and use it consistently.
+
+A simple system that is well understood and consistently applied will always outperform a complex system that is not.
 
 ### Folder Structure
 
