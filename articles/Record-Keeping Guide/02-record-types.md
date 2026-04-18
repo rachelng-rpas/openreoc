@@ -10,12 +10,12 @@ This section breaks down every record type a ReOC holder needs to maintain. For 
 
 ## How Records Are Grouped
 
-CASA's requirements in MOS 101 Chapter 10 can feel overlapping at first. To make them manageable, it helps to group records by **function** rather than by section number. Here's how they break down into three logical groups:
+The MOS 101 Chapter 10 can feel overlapping at first. To make them manageable, it helps to group records by **function** rather than by section number. Here's how they break down into three logical groups:
 
 | Group | What It Covers | MOS 101 Sections |
 |---|---|---|
 | **A. Operational Records** | Everything related to planning, authorising, flying, and documenting an operation | s10.03(1), s10.04, s10.05 |
-| **B. Personnel & Training Records** | Everyone who works under your ReOC and what training they've received | s10.03(2), s10.08 |
+| **B. Personnel & Training Records** | Everyone who works under your ReOC and what training they've received | s10.03, s10.08 |
 | **C. Aircraft & Pilot Records** | The aircraft's maintenance history and the pilot's personal flight log | s10.06, s10.07 |
 
 This grouping reduces overlap and makes filing practical. A single operation generates records in Group A. When you train someone, it goes in Group B. Aircraft maintenance sits in Group C.
