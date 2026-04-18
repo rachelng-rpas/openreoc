@@ -161,4 +161,4 @@ When records pass the 7-year retention period:
 
 ---
 
-**Next:** [06 — Best Practice Beyond Minimums](06-best-practice-beyond-minimums.md) — going beyond what CASA strictly requires.
+**Next:** [05 — Best Practice Beyond Minimums](05-best-practice-beyond-minimums.md) — going beyond what CASA strictly requires.
