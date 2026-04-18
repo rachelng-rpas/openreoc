@@ -1,11 +1,10 @@
-# STILL DRAFTING
-
 # 02 — Types of Records
 
 This section breaks down every record type a ReOC holder needs to maintain. For each type, we explain what it is, what must be included, who keeps it, how long to keep it, and a practical example.
 
 > **Important:** This guide covers ReOC operator records only. RePL training provider record-keeping requirements (MOS 101 s10.09 onwards) are a separate, complex topic and are not covered here.
 
+Last review date: 18 April 2026
 ---
 
 ## How Records Are Grouped
@@ -16,9 +15,22 @@ The MOS 101 Chapter 10 can feel overlapping at first. To make them manageable, i
 |---|---|---|
 | **A. Operational Records** | Everything related to planning, authorising, flying, and documenting an operation | s10.03, s10.04, s10.05 |
 | **B. Personnel & Training Records** | Everyone who works under your ReOC and what training they've received | s10.03(2), s10.08 |
-| **C. Aircraft & Pilot Records** | The aircraft's maintenance history and the pilot's personal flight log | s10.06, s10.07 |
+| **C. RPA & Pilot Records** | The aircraft's maintenance/techcnical and the pilot's personal flight log | s10.06, s10.07 |
 
 This grouping reduces overlap and makes filing practical. A single operation generates records in Group A. When you train someone, it goes in Group B. Aircraft maintenance sits in Group C.
+
+---
+
+> **Note on excluded RPA (Division 10.3):**  
+> This guide is intentionally written around the **full record-keeping framework for certified ReOC operations** under **MOS 101 Division 10.2 (RPA other than excluded RPA)**.
+>
+> CASA provides a **simplified record-keeping regime for excluded RPA operations** under **Division 10.3**, which generally has:
+> - fewer mandatory fields
+> - shorter retention periods for some records (for example, 3 years for the operational log)
+> - no operational release requirement in the same form as a ReOC operation
+>
+> In practice, if your operation may involve both excluded and certified/ReOC activities, it is often simpler and better from a compliance and audit perspective to **use the full record set in this guide for all operations**.  
+> Doing so avoids having to manage two separate rule sets and ensures records remain consistent across different job types.
 
 ---
 
@@ -26,21 +38,19 @@ This grouping reduces overlap and makes filing practical. A single operation gen
 
 ### A1. General Operational Documents — s10.03(1)
 
-**What it is:** MOS 101 s10.03(1) requires the CRP to keep copies of certain documents for every operation. These are the supporting documents that sit alongside the operational release and log.
+**What it is:** MOS 101 s10.03(1) requires the CRP to keep supporting documents that sit alongside the operational release and log for every operation.
 
 **What must be included:**
 
 | Document | MOS 101 Reference | Notes |
 |---|---|---|
 | Job Safety Analysis (JSA) | s10.03(1)(a) | Site-specific hazard identification and controls |
-| Risk Assessment (RA) | s10.03(1)(b) | May not be required for every operation — depends on your ops manual |
-| Operational Flight Plan | s10.03(1)(c) | If one was issued for the operation |
+| Risk Assessment (RA) | s10.03(1)(b) | May not be required for every operation, Check your ops manual |
+| Operational Flight Plan | s10.03(1)(c) | If issued for the operation |
 
-**Who keeps it:** The CRP is responsible for ensuring these are filed and retained.
+**Who keeps and how long:** CRP and 7 years from the date of creation.
 
-**How long:** 7 years from the date of creation.
-
-**Practical example:** You fly a roof inspection job at a school. Before the flight, you complete a JSA identifying overhead power lines, pedestrian traffic, and a nearby helipad. You also complete a risk assessment because the site is near a restricted area. Both documents are saved as PDFs named `BH-0045_JSA_20260415.pdf` and `BH-0045_RA_20260415.pdf` and filed alongside the operational record.
+**Practical example:** You fly a roof inspection job at a school. Before the flight, you complete a JSA identifying overhead power lines, pedestrian traffic, and a nearby helipad. You also complete a risk assessment because the site is near a restricted area. Both documents are saved as PDFs named `mission001_JSA_20260415.pdf` and `mission001_RA_20260415.pdf` and filed alongside the operational record.
 
 > **Tip:** The provided Operations Record template includes document tracking columns (JSA on file, RA on file, Flight plan on file) to cross-reference these documents against each operation. This is a simple way to prove that the documents exist and are filed correctly.
 
@@ -70,11 +80,7 @@ Think of it as a "cleared to operate" document. It must be completed **before** 
 
 **Sole operator exception:** If the ReOC holder is the only remote pilot operating under the ReOC, the "release approved by" field is not required (s10.04(5)).
 
-**Sub-2kg VLOS exception:** For RPA under 2 kg operating in VLOS only, certain fields are not required — specifically non-RP crew details, VLOS type, and CASA approvals (s10.04(6) and s10.05(2)).
-
-**Who keeps it:** The CRP.
-
-**How long:** 7 years.
+**Who keeps and how long:** CRP and 7 years from the date of creation.
 
 **Practical example:** Before a solar panel cleaning job, the PIC (or CRP) completes the pre-flight columns of the Operations Record spreadsheet: date, purpose, aircraft ID, location coordinates, crew details, VLOS type, serviceability confirmed, and release approved. This happens before the drone leaves the ground.
 
@@ -93,11 +99,9 @@ Think of it as a "cleared to operate" document. It must be completed **before** 
 | Whether RPA became unserviceable | s10.05(k) | Did the aircraft develop a fault during the operation? |
 | Log completed by (PIC) | s10.05(f) | The PIC signs off the post-flight record |
 
-**Key MOS 101 note:** The operational log can simply confirm "no changes from release" if the operation proceeded exactly as planned. You don't need to re-document everything — just note any deviations.
+**Key MOS 101 note:** The operational log can simply confirm "no changes from release" if the operation proceeded exactly as planned. You don't need to re-document everything, just note any deviations.
 
-**Who keeps it:** Completed by the PIC. Retained by the CRP.
-
-**How long:** 7 years.
+**Who keeps and how long:** CRP and 7 years from the date of creation.
 
 **Practical example:** After the solar panel cleaning job, the PIC returns and completes the post-flight columns of the same row in the Operations Record: actual times 0900–1045, "flight as per release, max 25m AGL," RPA serviceable throughout, log completed by [PIC name].
 
@@ -105,7 +109,7 @@ Think of it as a "cleared to operate" document. It must be completed **before** 
 
 ### How A2 and A3 Work Together
 
-The operational release and operational log are two sides of the same coin — one is "before," one is "after." In the provided template, they share the same row. Each operation gets one row, and the pre-flight and post-flight sections are completed at different times.
+The operational release and operational log are two sides of the same coin: one is "before," one is "after." In the provided template, they share the same row. Each operation gets one row, and the pre-flight and post-flight sections are completed at different times.
 
 This combined approach avoids duplicate data entry and makes it easy to see the full lifecycle of each operation in one place.
 
@@ -115,9 +119,9 @@ This combined approach avoids duplicate data entry and makes it easy to see the 
 
 ### B1. Personnel Records — s10.03(2), s10.08, reg 101.342(b)
 
-**What it is:** The personnel register is a master record of every person who operates under your ReOC — remote pilots, observers, ground handlers, loading staff, and anyone else with a safety-related role. It records their qualifications, induction status, type training, operator approvals, and current/inactive status.
+**What it is:** The personnel register is a master record of every person who operates under your ReOC:  remote pilots, observers, ground handlers, loading staff, and anyone else with a safety-related role. It records their qualifications, induction status, type training, operator approvals, and current/inactive status.
 
-Regulation 101.342(b) requires the ReOC holder to maintain a record of the qualifications of each person who performs duties for the operator. MOS 101 s10.08 requires that non-RP crew (observers, ground handlers, loading staff) are trained to perform their duties safely and that records of this training are kept.
+ReOC holder needs to maintain a record of the qualifications of each person who performs duties for the operator. MOS 101 s10.08 requires that non-RP crew (observers, ground handlers, loading staff) are trained to perform their duties safely and that records of this training are kept.
 
 **What must be included (at minimum):**
 
@@ -136,9 +140,7 @@ Regulation 101.342(b) requires the ReOC holder to maintain a record of the quali
 | Current or inactive | Administrative | Whether the person is currently active under the ReOC |
 | Dates commenced and ceased | s10.03(2) | When they started and stopped operating under the ReOC |
 
-**Who keeps it:** The CRP.
-
-**How long:** 7 years after the person ceases to operate under the ReOC.
+**Who keeps and how long:** CRP and 7 years from the date of creation.
 
 **Practical example:** When a new remote pilot joins your operation, you add them to the Personnel Register with their details, check and record their qualifications, note their flight experience, record their induction date, and track which aircraft types they're trained on. When they leave, you mark them "inactive" and note the end date. You keep the record for another 7 years.
 
@@ -146,7 +148,7 @@ Regulation 101.342(b) requires the ReOC holder to maintain a record of the quali
 
 ### B2. Training Log — s10.03(2)
 
-**What it is:** A chronological record of all **internal training** (non-RePL) conducted under the ReOC. This includes induction training, type ratings, competency assessments, observer/ground handler training, recurrent training, and any other training activity managed by the CRP.
+**What it is:** A record of all **internal training** (non-RePL) conducted under the ReOC. This includes induction training, type ratings, competency assessments, observer/ground handler training, recurrent training, and any other training activity managed by the CRP.
 
 MOS 101 s10.03(2) requires the CRP to keep a record of the training given to each person. The record must include specific details about the when, what, and outcome of the training.
 
@@ -171,9 +173,7 @@ MOS 101 s10.03(2) requires the CRP to keep a record of the training given to eac
 | Assessment form on file | Whether a formal assessment record exists |
 | CRP sign-off | CRP acknowledges the record |
 
-**Who keeps it:** The CRP.
-
-**How long:** 7 years from the date of creation.
+**Who keeps and how long:** CRP and 7 years from the date of creation.
 
 **Practical example:** You train a new remote pilot on your DJI M400 over two sessions. Session 1 is a ground/theory day covering type-specific procedures. Session 2 is a practical flight assessment. Each session gets its own row in the Training Log: TR-001 and TR-002. The entries record who was trained, by whom, when, what was covered, the outcome, and the CRP sign-off.
 
@@ -181,7 +181,7 @@ MOS 101 s10.03(2) requires the CRP to keep a record of the training given to eac
 
 ### How B1 and B2 Work Together
 
-The Personnel Register is the **snapshot** — who is qualified for what right now. The Training Log is the **history** — what training has been delivered over time.
+The Personnel Register is the **snapshot** — who is qualified for what right now. The Training Log is the **history**: what training has been delivered over time.
 
 When someone completes training (logged in B2), their Personnel Register entry (B1) gets updated to reflect their new qualifications or approvals. The two records cross-reference each other.
 
@@ -193,7 +193,7 @@ When someone completes training (logged in B2), their Personnel Register entry (
 
 **What it is:** The remote pilot log is a personal flight record maintained by each individual remote pilot. It records their flying history, hours, and types flown. It's similar in concept to a manned aircraft pilot logbook.
 
-MOS 101 s10.06 specifies what must be recorded. Note that the remote pilot log is the **pilot's** record, not the organisation's — but the CRP should ensure that pilots are maintaining their logs.
+MOS 101 s10.06 specifies what must be recorded. Note that the remote pilot log is the **pilot's** record, not the organisation's, but the CRP should ensure that pilots are maintaining their logs.
 
 **What must be included:**
 
@@ -207,9 +207,7 @@ MOS 101 s10.06 specifies what must be recorded. Note that the remote pilot log i
 | Role | s10.06 | PIC, co-pilot, or under instruction |
 | Cumulative totals | s10.06 | Running total of flight hours |
 
-**Who keeps it:** Each individual remote pilot.
-
-**How long:** 7 years from the date of the entry.
+**Who keeps and how long:** CRP and 7 years from the date of creation.
 
 **Practical tip:** Many pilots use the DJI flight log or similar app-generated data as a starting point, but this alone is generally not sufficient. The pilot log should be a structured record that includes the fields above. A simple spreadsheet works well.
 
@@ -235,27 +233,11 @@ MOS 101 s10.07 requires a technical log for each RPA. The level of detail may va
 | Component replacements | s10.07 | Propellers, batteries, motors, etc. with dates and hours |
 | Firmware/software updates | Best practice | Record of software and firmware versions |
 
-**Who keeps it:** The maintenance controller (MC) or CRP, depending on your ops manual structure.
+**Who keeps it:** The maintenance controller (MC) or CRP, depending on your ops manual structure and 7 years from the date of creation.
 
-**How long:** 7 years from the date of the entry.
-
-**Practical example:** Your DJI M400 (ID: BH-M400-001) has a technical log that records every flight cycle, battery swap, propeller replacement, firmware update, and any defect. After 50 flight hours, you replace the propellers — this goes in the technical log with the date, hours at replacement, and part details.
+**Practical example:** Your DJI M400 has a technical log that records every flight cycle, battery swap, propeller replacement, firmware update, and any defect. After 50 flight hours, you replace the propellers: this goes in the technical log with the date, hours at replacement, and part details.
 
 > **Relationship to the Operational Release:** The serviceability confirmation in the operational release (s10.04(j)) is linked to the technical log. Before each operation, the maintenance controller (or whoever holds that responsibility) confirms the aircraft is serviceable based on the technical log.
-
----
-
-## Summary Table
-
-| Record Type | MOS 101 Section | Group | Kept By | Retention |
-|---|---|---|---|---|
-| JSA, RA, Flight Plan | s10.03(1) | A — Operational | CRP | 7 years from creation |
-| Operational Release | s10.04 | A — Operational | CRP | 7 years |
-| Operational Log | s10.05 | A — Operational | PIC → CRP | 7 years |
-| Personnel Register | s10.03(2), s10.08, reg 101.342(b) | B — Personnel | CRP | 7 years after person leaves |
-| Training Log | s10.03(2) | B — Personnel | CRP | 7 years from creation |
-| Remote Pilot Log | s10.06 | C — Aircraft/Pilot | Individual RP | 7 years from entry |
-| RPAS Technical Log | s10.07 | C — Aircraft/Pilot | MC / CRP | 7 years from entry |
 
 ---
 
