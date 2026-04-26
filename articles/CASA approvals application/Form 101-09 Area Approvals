@@ -1,312 +1,200 @@
-#DRAFT 
+# CASA Approvals: When You Need Them and How to Apply
 
-link to the Form 101-09 https://www.casa.gov.au/sites/default/files/2021-03/application-rpa-flight-authorisation-area-approval-permission-form-101-09.pdf
-but always refer to casa website for the latest version
+*Author: Rachel Ng · Last updated: April 2026 · Status: Draft*
 
-Purpose of this form
-Use this form if you intend to apply for one of the following Remotely
-Piloted Aircraft (RPA) Flight Authorisations:
-RPA Approvals (CASR 101.030)
-• Above 400ft AGL in controlled airspace
-• Above 400ft AGL in non-controlled airspace
-• Operations within 3NM of a controlled aerodrome (excluding
-military controlled aerodromes)
-• Operate above 400ft AGL within 3NM of a controlled aerodrome
-• Operate over a movement area of a controlled aerodrome
-• Operate over the approach or departure path of a runway of a
-controlled aerodrome (excluding military controlled aerodromes)
-• Operate in the no-fly zone of a non-controlled aerodrome or HLS
-during a relevant event
-RPA Permissions (CASR 101.065)
-• Operate in restricted airspace R405AB 
-but the file is named area approval cos mostly people use the form for this purpose
-Only chief remote pilots of a remotely piloted aircraft operator's certificate (ReOC) holder can apply.
-so it means that if they are not reoc holder, they cant.
+If your job requires anything outside the [standard drone rules](https://www.casa.gov.au/knowyourdrone/drone-rules) — flying near a controlled aerodrome, above 400 ft AGL, or beyond visual line of sight — you'll need a CASA flight authorisation.
 
-This epxlains why you reoc is important cos it gives you capability to operate out of the standard drone conditions defined by casa (like the above conditions)
-(then explain to people when and a bit example on what condition they need this approval (eg. milperra, close to bankstown airport, which is a controlled aerodrome)
+**Only a Chief Remote Pilot (CRP) of a ReOC holder can apply.** This is one of the key reasons holding a ReOC matters — it unlocks the ability to operate outside standard Part 101 conditions.
 
-but for some of the controlled airport 
-casa is trialling automated airspace authorisations for remotely piloted aircraft operator’s certificate (ReOC) holders. This allows eligible drone operators to fly in restricted areas and within 5.5 km (3 nm) of selected controlled airports.
+This guide covers when you need an approval, what to prepare, and how to submit your application using CASA Form 101-09.
 
-CRP can apply using a participating CASA-verified drone safety app for these trial locations:
+---
 
-Adelaide Airport (YPAD)
-Broome Airport (YBRM)
-Cairns Airport (YBCS)
-Canberra Airport (YSCB)
-Coffs Harbour Airport (YCFS)
-Essendon Airport (YMEN)
-Hobart Airport (YMHB)
-Melbourne Airport (YMML)
-Perth Airport (YPPH)
-Sydney Airport (YSSY)
-Sydney Harbour and surrounding areas (R405 A/B).
-Participation in the trial is free. The authorisations are also free, and there is no limit on the number of authorisations granted. We will automatically approve applications that meet the criteria, saving you time and money.
-compared to traditional way, using the form 101-09, which the application fee (previously 2025 was $160/hour, and processing time of this depend on the complexity, but typical area approval around 5 hour which means $800 applucation fee directly to casa
-but this might change so just reference example to have an idea and also time difference is a lot (so automated approval def helps a lot) but this part we can cover further details in later article, for them
-to reference read now from casa is https://www.casa.gov.au/drones/flight-authorisation-trials/automated-airspace-authorisations#Therequirements 
+## What Approvals Exist?
 
-current timeline Applications take up to 70 days to assess from the date of payment with casa. so need earlier 
+Form 101-09 covers three categories. You'll tick all that apply to your operation.
 
+### Area Approvals — CASR 101.030
 
-This step-by-step guide shows ReOC holders how to apply for special approvals when your job needs anything outside the basic Part 101 rules (e.g. controlled aerodrome, >400 ft AGL, BVLOS). It also lists what to prepare before you fill in CASA Form 101-09 and how to keep your application clean and fast.
+These cover operations in or near controlled airspace and aerodromes:
 
+- Above 400 ft AGL in controlled airspace
+- Above 400 ft AGL in non-controlled airspace
+- Within 3 NM of a controlled aerodrome
+- Within 3 NM of a military controlled aerodrome
+- Above 400 ft AGL within 3 NM of a controlled aerodrome
+- Over a movement area of a controlled aerodrome
+- Over an approach or departure path of a runway at a controlled aerodrome
 
+### RPA Permissions — CASR 101.080
 
+These cover operations at non-controlled aerodromes:
 
-1) Know what you’re asking for (tick all that apply)
-On Form 101-09 you’ll select one or more of:
+- Over a movement area of a non-controlled aerodrome
+- Above 400 ft AGL within 3 NM of a non-controlled aerodrome
 
-Area Approvals (CASR 101.030)
+### VLOS Permissions — CASR 101.029
 
-Above 400 ft AGL in controlled airspace
+- Beyond Visual Line of Sight (BVLOS)
 
+> **Tip:** If your job is near a towered airport *and* above 400 ft AGL, you'll usually need to tick both the aerodrome proximity item and the altitude item.
 
-Above 400 ft AGL in non-controlled airspace
+---
 
+## Do You Actually Need an Approval?
 
-Within 3 NM of a controlled aerodrome
+Before you start filling in forms, work out what airspace you're operating in.
 
+### Step 1 — Check the Airspace
 
-Within 3 NM of a military controlled aerodrome
+Use one of these to identify your site's airspace classification:
 
+- **CASA-verified drone safety apps** — [Full list on CASA's website](https://www.casa.gov.au/knowyourdrone/drone-safety-apps)
+- **Aviation charts** — VTC, VNC, PCA available from [Airservices Australia](https://www.airservicesaustralia.com/aip/aip.asp?pg=10)
+- **ERSA** — Check the entry for the nearest aerodrome
+- **Planning apps** — OpenSky, AvPlan, OzRunways
 
-Above 400 ft AGL within 3 NM of a controlled aerodrome
+### Step 2 — Match Your Scenario
 
+| Airspace Type | What It Means | CASA Approval Required? |
+|---|---|---|
+| **Controlled airspace** (Class C/D) | Actively managed by ATC. Near major airports, busy city areas, military bases. | Yes — Form 101-09 required |
+| **Uncontrolled airspace** | No active ATC. Regional airports, rural airstrips. | No — unless above 400 ft AGL, over a movement area, or drone >25 kg |
+| **Restricted airspace** | Special-use areas near military bases, government sites, etc. | Check specific restrictions — approval may be required even if uncontrolled |
 
-Over a movement area of a controlled aerodrome
+### Quick Scenarios
 
+**Near a controlled aerodrome (Class C/D)?**
+- Apply via Form 101-09
+- You'll need an AROC for radio communication with ATC
+- If operating in a DJI geofenced zone, complete a GeoZone unlock (covered in a future article)
 
-Over an approach/departure path of a runway at a controlled aerodrome
+**Near an uncontrolled aerodrome?**
+- Stay below 400 ft AGL and give way to all manned aircraft
+- Avoid runways, taxiways and movement areas
+- Monitor the CTAF frequency for situational awareness
+- No formal approval needed unless you exceed these limits
 
-RPA Permissions (CASR 101.080)
+**Only in a DJI restricted zone (no CASA airspace issue)?**
+- Check the zone type on [DJI FlySafe](https://www.dji.com/flysafe)
+- If CASA approval is needed for the location, get that first
+- Then apply for a DJI Custom Unlock with supporting documents (covered in a future article)
 
-Over a movement area of a non-controlled aerodrome
+---
 
+## Automated Airspace Authorisations (AAA) Trial
 
-Above 400 ft AGL within 3 NM of a non-controlled aerodrome
+Before you reach for Form 101-09, check whether your site is covered by CASA's Automated Airspace Authorisation trial. This allows eligible ReOC holders to get instant approvals for flights within 3 NM of selected controlled airports — no paperwork, no fees, no 70-day wait.
 
-Visual line-of-sight (CASR 101.029)
+### How It Works
 
-BVLOS (beyond visual line-of-sight)
+- CRP applies through a participating CASA-verified drone safety app (e.g., OpenSky by Wing)
+- Applications that meet the criteria are approved automatically
+- Participation and authorisations are free with no limit on the number granted
 
+### Trial Locations
 
-Tip: If your job is near a towered airport and above 400 ft AGL, you will usually need to tick both the aerodrome proximity item and the above 400 ft item.
+Adelaide (YPAD), Broome (YBRM), Cairns (YBCS), Canberra (YSCB), Coffs Harbour (YCFS), Essendon (YMEN), Hobart (YMHB), Melbourne (YMML), Perth (YPPH), Sydney (YSSY), and Sydney Harbour / surrounding areas (R405 A/B).
 
-2) Pre-application checks & evidence pack
-Prepare these before you open 101-09:
+### Why This Matters
 
-Airspace & approvals
+Compare this to the traditional Form 101-09 route:
 
-Use OpenSky (or another approved planning tool) to see whether your site is inside CTR/CTA, near an aerodrome, or within restricted/prohibited areas.
+- **Cost:** AAA is free. Form 101-09 incurs a CASA application fee charged at an hourly rate — a typical area approval can run into hundreds of dollars. Check [CASA's current fee schedule](https://www.casa.gov.au) for the latest rates.
+- **Time:** AAA is near-instant. Form 101-09 applications currently take up to **70 days** from the date of payment.
 
+If your site falls within a trial location, AAA is the obvious choice.
 
-Verify with Aviation charts (VTC/VNC/PCA) and the ERSA entry for the nearest aerodrome. Access free resources from Airservices Australia.
+> For full details and eligibility requirements, see [CASA's AAA trial page](https://www.casa.gov.au/drones/flight-authorisation-trials/automated-airspace-authorisations#Therequirements). We'll cover AAA setup and usage in detail in a future article.
 
+---
 
-Mission planning documents (attach to 101-09):
+## Preparing Your Application (Form 101-09)
 
-uncheckedUpdated RPAS operations manual
-uncheckedUpdated RPAS operational procedure (library)
-uncheckedFilled Flight Authorisation (from your Ops Manual)
-uncheckedFilled JSA (Job Safety Assessment) with a map/screenshot showing site hazards, eg. TOL sites, observers, exclusion & safe zones, signage etc.
-uncheckedFilled Risk Assessment (RA) created for this specific mission (not a generic “tick-and-flick”)
-uncheckedSite coordinates/ Maps of the operational area (lat/long in aviation format) (KMZ file) 
-uncheckedAeronautical radio qualifications (AROC) is attached
+If AAA doesn't cover your site, you'll need to submit [Form 101-09](https://www.casa.gov.au/sites/default/files/2021-03/application-rpa-flight-authorisation-area-approval-permission-form-101-09.pdf) (always check the [CASA website](https://www.casa.gov.au) for the latest version).
 
+Get your evidence pack together *before* you open the form.
 
-uncheckedPermissions (landowner, council, facility manager) if required
-uncheckedLetter of Agreement (LOA) for Defence oversighted aerodromes 
-uncheckedBVLOS Concept of Operations document (CONOPS) is attached (if applicable)
+### Airspace and Planning Checks
 
-If near/inside controlled aerodrome (CTR)
+- [ ] Confirm the airspace classification and any restrictions at your site
+- [ ] Verify with aviation charts (VTC/VNC/PCA) and the ERSA entry for the nearest aerodrome
+- [ ] Confirm operational details and location with clients
 
-VHF radio capability and ATC coordination plan (who/when to call, standing instructions)
+### Documents to Attach
 
+- [ ] Updated RPAS Operations Manual
+- [ ] Updated RPAS Operational Procedure (from your procedure library)
+- [ ] Completed Flight Authorisation form (from your Ops Manual)
+- [ ] Job Safety Assessment (JSA) — include a map/screenshot showing TOL sites, observer positions, exclusion zones, safe zones, signage
+- [ ] Risk Assessment (RA) — specific to this mission, not a generic template
+- [ ] Site coordinates and maps (lat/long in aviation format, KMZ file)
+- [ ] Aeronautical Radio Operator Certificate (AROC)
 
-Be ready to publish/arrange a NOTAM if your approval/ATC requires it (many approvals impose a NOTAM lead time). Keep a NAIPS login handy for briefings and any NOTAM coordination requirements.
+### Additional Documents (If Applicable)
 
+- [ ] Landowner, council or facility manager permissions
+- [ ] Letter of Agreement (LOA) for Defence-oversighted aerodromes
+- [ ] BVLOS Concept of Operations (ConOps) document
 
-If the site is DJI-geofenced
+### If Operating Near/Inside a CTR
 
-Complete a DJI GeoZone unlock for the aircraft/RC that will be used:
-another article later
+- [ ] VHF radio capability confirmed
+- [ ] ATC coordination plan documented (who to call, when, standing instructions)
+- [ ] NAIPS login available for briefings and any NOTAM coordination
 
-Record-keeping
+### Record-Keeping
 
-Ensure your records system:
+Your records system must be able to demonstrate planning evidence on audit — compliant with AIP and Part 101 MOS, with 7-year retention and a backup plan. If your records system goes down with no backup, you must cease operations until it's restored.
 
-Complies with AIP & Part 101 MOS;
+---
 
-Can show evidence of planning on audit;
+## After Approval: What Happens Next
 
-Retains records 7 years and has a backup (or you must cease operations while down).
+Once CASA grants your approval, you'll receive an instrument document specifying:
 
+- The approved area and conditions
+- Valid dates (e.g., 1 May 2025 – 1 May 2027)
+- Approved frequency of operations (e.g., once per month)
+- Any specific conditions you must comply with
 
-to plan operations: 
-Confirm operational details and location with clients.
-Check if you require any CASA flight approvals or specific pilot qualifications.
- determine whether CASA’s approval is needed for the sites(another article teach)
-After getting the flight approval (start-end date stated to CASA during submission: eg. 1 May 2025 - 1 May 2027) and the frequency of operation (eg. once per month). Then you would be allowed to operate within the period approved by CASA (Check the CASA approval document for the days and time).
-If CASA’s flight approval is not required for the job, just plan for the mission (do step 3) then you are good to go.
-Complete a flight plan, Risk assessment and Job safety assessment form
-Get everything ready and setup for the day, might consider pre-plan the flight route in the RC before the day to speed things up
-Run the flight, export the files from the Drone, then process it in software eg. Terra.
-If required, before the operation (at least two business days), submit the NOTAM form to CASA (guidance will be provided by CASA in their email)
-No matter what, you must comply with the Standard Drone Rules, they can be found here: casa standard drone rules https://www.casa.gov.au/knowyourdrone/drone-rules
+**Read the instrument carefully.** Your operations must stay within the scope and conditions listed.
 
-Do you need CASA approvals: Operating in restricted area (DJI geozone unlock guide)
-CASA regulations apply nationwide and dictate where and how you can fly, particularly near aerodromes (airports). Before planning any drone operation, it’s crucial to understand the legal requirements set by the Civil Aviation Safety Authority (CASA).
+---
 
-To operate commercially with excluded category RPA (Micro (250g or less), Very small category (2kg or less)):
+## Pre-Operation Checklist
 
-ARN
+Before each flight under your approval:
 
-RPA operator Accreditation (for commercial use without RePL and ReOC)
+- [ ] Complete/update your Flight Plan, Risk Assessment and JSA for the specific operation
+- [ ] CRP signs off on the documentation (check your Operations Manual for internal procedures)
+- [ ] If in a DJI geofenced zone — submit a GeoZone unlock request at least 2–3 business days before the flight and confirm access is granted (you won't be able to take off without it)
+- [ ] Submit a NOTAM to CASA at least 2 business days before the flight if required by your approval conditions, and confirm it's active
+- [ ] On the day — check weather, confirm the NOTAM is active, and verify NOTAMs from other operators in the area
+- [ ] Pre-plan your flight route in the remote controller where possible to save time on site
+- [ ] After the flight — export files from the drone and process in your chosen software
 
-Register the drone
+---
 
-Fly under CASA standard operating conditions
+## Key Takeaways
 
+- **ReOC holders only** — without a ReOC, you can't apply for these approvals
+- **Check AAA first** — if your site is near a trial location, automated authorisation saves significant time and money
+- **Plan early** — Form 101-09 applications take up to 70 days, so submit well ahead of your intended operation date
+- **Prepare thoroughly** — a clean, complete application with all supporting documents reduces back-and-forth with CASA
+- **Comply with conditions** — once approved, your operations must stay within the scope of the instrument
 
-If required to obtain CASA approval → obtain the RePL and ReOC.
+---
 
+## Useful Links
 
-Step-by-Step Guide Based on Your Location
-This part is just an overview on what to expect to operate legally. Detailed steps are covered in the following parts. 
+- [CASA Standard Drone Rules](https://www.casa.gov.au/knowyourdrone/drone-rules)
+- [Form 101-09 (Flight Authorisation Application)](https://www.casa.gov.au/sites/default/files/2021-03/application-rpa-flight-authorisation-area-approval-permission-form-101-09.pdf) — always check CASA's website for the current version
+- [CASA Verified Drone Safety Apps](https://www.casa.gov.au/knowyourdrone/drone-safety-apps)
+- [Automated Airspace Authorisations Trial](https://www.casa.gov.au/drones/flight-authorisation-trials/automated-airspace-authorisations#Therequirements)
+- [Airservices Australia — Charts and AIP](https://www.airservicesaustralia.com/aip/aip.asp?pg=10)
+- [DJI FlySafe](https://www.dji.com/flysafe)
 
+---
 
-
-🛫 Scenario 1: I Need to Fly Near a Controlled Aerodrome (Class C/D Airspace)
-✔️ Apply for CASA approval using Form 101-09.
-✔️ Submit a DJI GEO Unlock Request via DJI FlySafe.
-✔️ Wait for approval before operating the drone.
-
-
-
-🛩️ Scenario 2: I’m Flying Near an Uncontrolled Aerodrome (<3NM)
-✔️ Stay clear of runways and flight paths.
-✔️ Monitor CTAF frequency if possible for situational awareness.
-✔️ Check DJI FlySafe for possible flight restrictions.
-✔️ Proceed only if safe, or apply for CASA clearance if needed.
-
-
-
-🌍 Scenario 3: I only Need to Fly in a DJI Restricted Zone
-✔️ Check the DJI FlySafe for zone type.
-✔️ Apply for a Custom Unlock via DJI FlySafe with supporting documents, following our guide section 3.
-✔️ If CASA approval is required, obtain it before requesting DJI unlock.
-✔️ Ensure the drone has the latest firmware to recognize unlocks.
-
-
-
-General CASA Regulations (Applies Everywhere in Australia)
-Regardless of location, all drone pilots must follow these general rules:
-✅ Stay below 400 feet (120m) AGL unless granted CASA approval.
-✅ Ensure your drone is registered if operating commercially.
-✅ Follow manufacturer safety guidelines for all operations.
-
-Please check the CASA official drone rules for other related regulations, this article focuses on:
-
-Are you operating around a controlled, uncontrolled or restricted airspace/ aerodrome?
-
-Are you operating in a DJI Geo zone?
-
-How to Check CASA Airspace Regulations
-To determine if you're in controlled or uncontrolled airspace, follow these steps:
-
-Step 1: Use an Official CASA Airspace Map
-Visit CASA’s "Verified Drone safety apps" → https://www.casa.gov.au/knowyourdrone/drone-safety-apps, or
-
-Check out ERSA, VTC, NAIPS and AIPs if required → https://www.airservicesaustralia.com/aip/aip.asp?pg=10, or
-
-Alternatively, use third-party apps approved by CASA like OpenSky, AvPlan, OzRunways etc.
-
-Step 2: Identify if You're in Controlled or Uncontrolled Airspace
-Step 3: Look for Restricted & Military Airspace
-Some restricted airspace areas require CASA approval even if they are uncontrolled.
-
-Use CASA maps to check for restricted airspace near military bases, national parks, and government sites.
-
-
-
-Airspace Type
-
-Definition
-
-Example
-
-Do You Need CASA Approval?
-
-
-
-Controlled Airspace
-
-Airspace is actively managed by ATC to regulate manned aircraft operations.
-
-Near major airports (Sydney, Brisbane, Melbourne), busy city areas, military bases.
-
-✅ CASA approval is required.
-
-
-
-Uncontrolled Airspace
-
-Airspace with no active ATC control but still used by manned aircraft.
-
-Regional airports, rural airstrips (e.g., Theodore Airport).
-
-❌ No CASA approval is required unless above 400ft.
-
-
-
-Operations in Controlled Airspace
-Operating in controlled airspace is generally not preferable due to complicated legal requirements.
-
-✅ You can operate in controlled airspace if you:
-
-Hold a RePL (Remote Pilot Licence) and operate under an ReOC (Remote Operator Certificate).
-
-Have an AROC (Aeronautical Radio Operator Certificate) for radio communication with ATC.
-
-MUST Apply for CASA flight approval via Form 101-09.
-
-Receive clearance from CASA & ATC before takeoff.
-
-
-
-💡 If operating in controlled airspace, submit Form 101-09, expect a minimum processing time of 70 days for CASA approval. You may request an expedited assessment if operations are for emergency or life-saving purposes.
-
-Operations Near Uncontrolled Aerodromes
-✅ You can operate near an uncontrolled aerodrome if you:
-
-Stay below 400ft AGL and give way to all manned aircraft.
-
-Avoid the populous areas, runway, taxiways, and aircraft movement areas.
-
-Monitor the CTAF frequency (if applicable) to listen for aircraft in the vicinity.
-
-Keep Visual Line of Sight (VLOS)
-
-Recommended to stay 3NM (5.5km) away from an uncontrolled aerodrome (but not legally required)
-
-❌ You need CASA approval if you:
-
-Fly above 400ft AGL → Submit Form 101-09 for clearance.
-
-Fly a drone over 25kg → Requires CASA approval regardless of airspace class.
-
-💡 CASA does not strictly ban operations within 3NM of an uncontrolled aerodrome, but pilots must take extra precautions to ensure complete safety and avoid conflicts with manned aircraft.
-
-
-
-and usually after the CASA instrument approval is down, must follow the conditoins they listed under the instrument approval
-
-Pre-operation actions
-DJI Geo zone unlock (at least 2-3 business days before flight), and confirm access granted. (won’t be able to takeoff if not done so) if it sits undert the dji geozones
-NOTAM submission (at least 2-3 business days before flight), and confirmation approved. (MUST)
- updated flight plan, RA and JSA before each operation (For Chief Remote Pilot to sign and approve also, check own operation manual of company for thier procedures)
-Check Weather and NOTAM on the day and confirm it is active.
-
-
+*This article is part of the [OpenReOC](https://github.com/rachelng-rpas/openreoc) series — practical guides for Australian drone operators navigating CASA regulations.*
