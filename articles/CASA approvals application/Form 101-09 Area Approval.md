@@ -176,16 +176,6 @@ Before each flight under your approval:
 
 ---
 
-## Key Takeaways
-
-- **ReOC holders only** — without a ReOC, you can't apply for these approvals
-- **Check AAA first** — if your site is near a trial location, automated authorisation saves significant time and money
-- **Plan early** — Form 101-09 applications take up to 70 days, so submit well ahead of your intended operation date
-- **Prepare thoroughly** — a clean, complete application with all supporting documents reduces back-and-forth with CASA
-- **Comply with conditions** — once approved, your operations must stay within the scope of the instrument
-
----
-
 ## Useful Links
 
 - [CASA Standard Drone Rules](https://www.casa.gov.au/knowyourdrone/drone-rules)
@@ -197,4 +187,10 @@ Before each flight under your approval:
 
 ---
 
+> **Disclaimer:** This article is for general educational purposes only and does not constitute legal or regulatory advice. Always refer to the [CASA website](https://www.casa.gov.au) and current legislation for the latest requirements. Regulations, fees, processing times and forms may change without notice.
+
 *This article is part of the [OpenReOC](https://github.com/rachelng-rpas/openreoc) series — practical guides for Australian drone operators navigating CASA regulations.*
+
+---
+
+
