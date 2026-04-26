@@ -2,9 +2,9 @@
 
 *Author: Rachel Ng · Last updated: April 2026 · Status: Draft*
 
-If your job requires anything outside the [standard drone rules](https://www.casa.gov.au/knowyourdrone/drone-rules) — flying near a controlled aerodrome, above 400 ft AGL, or beyond visual line of sight — you'll need a CASA flight authorisation.
+If your job requires anything outside the [standard drone rules](https://www.casa.gov.au/knowyourdrone/drone-rules), eg. flying near a controlled aerodrome, above 400 ft AGL, you'll need a CASA flight authorisation.
 
-**Only a Chief Remote Pilot (CRP) of a ReOC holder can apply.** This is one of the key reasons holding a ReOC matters — it unlocks the ability to operate outside standard Part 101 conditions.
+**Only a ReOC holder can apply.** This is one of the key reasons holding a ReOC matters, it unlocks the ability to operate outside standard Part 101 conditions.
 
 This guide covers when you need an approval, what to prepare, and how to submit your application using CASA Form 101-09.
 
@@ -12,11 +12,11 @@ This guide covers when you need an approval, what to prepare, and how to submit 
 
 ## What Approvals Exist?
 
-Form 101-09 covers three categories. You'll tick all that apply to your operation.
+Form 101-09 is for applying flight authorizations for the followinng scenarios.
 
 ### Area Approvals — CASR 101.030
 
-These cover operations in or near controlled airspace and aerodromes:
+For operations out of standard operating conditions:
 
 - Above 400 ft AGL in controlled airspace
 - Above 400 ft AGL in non-controlled airspace
@@ -24,20 +24,12 @@ These cover operations in or near controlled airspace and aerodromes:
 - Within 3 NM of a military controlled aerodrome
 - Above 400 ft AGL within 3 NM of a controlled aerodrome
 - Over a movement area of a controlled aerodrome
-- Over an approach or departure path of a runway at a controlled aerodrome
+- Over an approach or departure path of a runway at a controlled aerodrome (excluding military controlled aerodromes)
+- In the no-fly zone of a non-controlled aerodrome or HLS during a relevant event
 
-### RPA Permissions — CASR 101.080
+### RPA Permissions — CASR 101.065
 
-These cover operations at non-controlled aerodromes:
-
-- Over a movement area of a non-controlled aerodrome
-- Above 400 ft AGL within 3 NM of a non-controlled aerodrome
-
-### VLOS Permissions — CASR 101.029
-
-- Beyond Visual Line of Sight (BVLOS)
-
-> **Tip:** If your job is near a towered airport *and* above 400 ft AGL, you'll usually need to tick both the aerodrome proximity item and the altitude item.
+For operations in prohibited or restricted area, restricted airspace R405AB.
 
 ---
 
@@ -49,10 +41,9 @@ Before you start filling in forms, work out what airspace you're operating in.
 
 Use one of these to identify your site's airspace classification:
 
-- **CASA-verified drone safety apps** — [Full list on CASA's website](https://www.casa.gov.au/knowyourdrone/drone-safety-apps)
+- **CASA-verified drone safety apps** — [Full list on CASA's website](https://www.casa.gov.au/knowyourdrone/drone-safety-apps), eg. OpenSky, Ok2fly etc
 - **Aviation charts** — VTC, VNC, PCA available from [Airservices Australia](https://www.airservicesaustralia.com/aip/aip.asp?pg=10)
-- **ERSA** — Check the entry for the nearest aerodrome
-- **Planning apps** — OpenSky, AvPlan, OzRunways
+- **ERSA** — Check the nearest aerodrome information\
 
 ### Step 2 — Match Your Scenario
 
@@ -146,6 +137,10 @@ Get your evidence pack together *before* you open the form.
 ### Record-Keeping
 
 Your records system must be able to demonstrate planning evidence on audit — compliant with AIP and Part 101 MOS, with 7-year retention and a backup plan. If your records system goes down with no backup, you must cease operations until it's restored.
+
+## Submission
+
+Send the application form and supporting documents to rpas.pac@casa.gov.au.
 
 ---
 
