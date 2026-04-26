@@ -17,7 +17,7 @@
 | Date | Action | Notes |
 |------|--------|-------|
 | 09 Apr 2026 | Started reviewing regulatory documents | TMI 2024-01, AC 101-01 v6.0, EX45/24, CASR 101.245/280 |
-| 11 Apr 2026 | Continued document review and began drafting overview guide | See [OONP Overview and Pathways] |
+| 11 Apr 2026 | Continued document review and began drafting overview guide | See [OONP Overview and Pathways](#Step-01-Overview-and-pathways.md) |
 | 12 Apr 2026 | ConOps — 5-page standalone document for CASA | 1st draft |
 | 14 Apr 2026 | Gone through pathway 1 details, procedures&requirements. Drafting pathway 1 guide | 1st draft |
 | 15 Apr 2026 | Gone through pathway 2 details, procedures&requirements. Drafting pathway 2 guide | 1st draft |
