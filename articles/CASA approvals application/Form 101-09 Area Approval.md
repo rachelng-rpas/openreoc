@@ -1,14 +1,14 @@
 # CASA Approvals: When You Need Them and How to Apply
 
-Author: Rachel Ng 
-
-Last review: 27 April 2026
-
 If your job requires anything outside the [standard drone rules](https://www.casa.gov.au/knowyourdrone/drone-rules), eg. flying near a controlled aerodrome, above 400 ft AGL, you'll need a CASA flight authorisation.
 
 **Only a ReOC holder can apply.** This is one of the key reasons holding a ReOC matters, it unlocks the ability to operate outside standard Part 101 conditions.
 
 This guide covers when you need an approval, what to prepare, and how to submit your application using CASA Form 101-09.
+
+Author: Rachel Ng 
+
+Last review: 27 April 2026
 
 ---
 
