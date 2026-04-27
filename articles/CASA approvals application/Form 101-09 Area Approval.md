@@ -1,6 +1,6 @@
 # CASA Approvals: When You Need Them and How to Apply
 
-*Author: Rachel Ng · Last updated: April 2026 · Status: Draft*
+*Author: Rachel Ng · Last updated: 27 April 2026 · *
 
 If your job requires anything outside the [standard drone rules](https://www.casa.gov.au/knowyourdrone/drone-rules), eg. flying near a controlled aerodrome, above 400 ft AGL, you'll need a CASA flight authorisation.
 
@@ -49,21 +49,23 @@ Use one of these to identify your site's airspace classification:
 
 | Airspace Type | What It Means | CASA Approval Required? |
 |---|---|---|
-| **Controlled airspace** (Class C/D) | Actively managed by ATC. Near major airports, busy city areas, military bases. | Yes — Form 101-09 required |
-| **Uncontrolled airspace** | No active ATC. Regional airports, rural airstrips. | No — unless above 400 ft AGL, over a movement area, or drone >25 kg |
-| **Restricted airspace** | Special-use areas near military bases, government sites, etc. | Check specific restrictions — approval may be required even if uncontrolled |
+| **Controlled airspace** (Class A/C/D/E) | Actively managed by ATC. Near major airports, busy city areas, military bases. | Yes — Form 101-09 required |
+| **Uncontrolled airspace** (Class G) | No active ATC. Regional airports, rural airstrips. | No — unless above 400 ft AGL, over a movement area / no-fly zone , or drone >25 kg |
+| **Restricted airspace** | Special-use areas near military bases, government sites, etc. | Check specific restrictions — approval may be required even when unactivated |
 
 ### Quick Scenarios
 
-**Near a controlled aerodrome (Class C/D)?**
+**Near a controlled aerodrome?**
 - Apply via Form 101-09
-- You'll need an AROC for radio communication with ATC
+- You'll need an AROC for using the radio to monitor ATC frequencies (casa instruments usually require you to remain active listening rather than transmitting on the frequency).
 - If operating in a DJI geofenced zone, complete a GeoZone unlock (covered in a future article)
 
 **Near an uncontrolled aerodrome?**
-- Stay below 400 ft AGL and give way to all manned aircraft
+- Stay below 400 ft AGL 
+- Monitor the CTAF frequency to aware  for situational awareness
+- If any manned traffic is entering the aerodrome and give way to all manned aircraft (land)
 - Avoid runways, taxiways and movement areas
-- Monitor the CTAF frequency for situational awareness
+- Monitor the CTAF frequency
 - No formal approval needed unless you exceed these limits
 
 **Only in a DJI restricted zone (no CASA airspace issue)?**
@@ -75,7 +77,12 @@ Use one of these to identify your site's airspace classification:
 
 ## Automated Airspace Authorisations (AAA) Trial
 
-Before you reach for Form 101-09, check whether your site is covered by CASA's Automated Airspace Authorisation trial. This allows eligible ReOC holders to get instant approvals for flights within 3 NM of selected controlled airports — no paperwork, no fees, no 70-day wait.
+Before you reach for Form 101-09, check whether your site is covered by CASA's Automated Airspace Authorisation trial. 
+
+This allows eligible ReOC holders to get instant approvals for flights within 3 NM of selected controlled airports. Compare this to the traditional Form 101-09 route:
+
+- **Cost:** AAA is free. Form 101-09 incurs a CASA application fee charged at an hourly rate — a typical area approval can run into hundreds of dollars. Check [CASA's current fee schedule](https://www.casa.gov.au) for the latest rates.
+- **Time:** AAA is near-instant. Form 101-09 applications currently take up to **70 days** from the date of payment.
 
 ### How It Works
 
@@ -86,15 +93,6 @@ Before you reach for Form 101-09, check whether your site is covered by CASA's A
 ### Trial Locations
 
 Adelaide (YPAD), Broome (YBRM), Cairns (YBCS), Canberra (YSCB), Coffs Harbour (YCFS), Essendon (YMEN), Hobart (YMHB), Melbourne (YMML), Perth (YPPH), Sydney (YSSY), and Sydney Harbour / surrounding areas (R405 A/B).
-
-### Why This Matters
-
-Compare this to the traditional Form 101-09 route:
-
-- **Cost:** AAA is free. Form 101-09 incurs a CASA application fee charged at an hourly rate — a typical area approval can run into hundreds of dollars. Check [CASA's current fee schedule](https://www.casa.gov.au) for the latest rates.
-- **Time:** AAA is near-instant. Form 101-09 applications currently take up to **70 days** from the date of payment.
-
-If your site falls within a trial location, AAA is the obvious choice.
 
 > For full details and eligibility requirements, see [CASA's AAA trial page](https://www.casa.gov.au/drones/flight-authorisation-trials/automated-airspace-authorisations#Therequirements). We'll cover AAA setup and usage in detail in a future article.
 
@@ -136,7 +134,7 @@ Get your evidence pack together *before* you open the form.
 
 ### Record-Keeping
 
-Your records system must be able to demonstrate planning evidence on audit — compliant with AIP and Part 101 MOS, with 7-year retention and a backup plan. If your records system goes down with no backup, you must cease operations until it's restored.
+Your records system must be able to demonstrate planning evidence on audit, compliant with AIP and Part 101 MOS, with 7-year retention and a backup plan. If your records system goes down with no backup, you must cease operations until it's restored.
 
 ## Submission
 
