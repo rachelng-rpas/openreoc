@@ -6,6 +6,7 @@ If your job requires anything outside the [standard drone rules](https://www.cas
 
 This guide covers when you need an approval, what to prepare, and how to submit your application using CASA Form 101-09.
 
+
 Author: Rachel Ng 
 
 Last review: 27 April 2026
