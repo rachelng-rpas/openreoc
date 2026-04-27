@@ -1,6 +1,6 @@
 # CASA Approvals: When You Need Them and How to Apply
 
-*Author: Rachel Ng · Last updated: 27 April 2026 · *
+Author: Rachel Ng | Last review: 27 April 2026
 
 If your job requires anything outside the [standard drone rules](https://www.casa.gov.au/knowyourdrone/drone-rules), eg. flying near a controlled aerodrome, above 400 ft AGL, you'll need a CASA flight authorisation.
 
