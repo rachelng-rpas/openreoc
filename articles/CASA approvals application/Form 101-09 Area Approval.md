@@ -6,8 +6,7 @@ If your job requires anything outside the [standard drone rules](https://www.cas
 
 This guide covers when you need an approval, what to prepare, and how to submit your application using CASA Form 101-09.
 
-
-Author: Rachel Ng 
+Author: Rachel Ng
 
 Last review: 27 April 2026
 
@@ -15,7 +14,7 @@ Last review: 27 April 2026
 
 ## What Approvals Exist?
 
-Form 101-09 is for applying flight authorizations for the followinng scenarios.
+Form 101-09 is for applying flight authorisations for the following scenarios.
 
 ### Area Approvals — CASR 101.030
 
@@ -46,41 +45,34 @@ Use one of these to identify your site's airspace classification:
 
 - **CASA-verified drone safety apps** — [Full list on CASA's website](https://www.casa.gov.au/knowyourdrone/drone-safety-apps), eg. OpenSky, Ok2fly etc
 - **Aviation charts** — VTC, VNC, PCA available from [Airservices Australia](https://www.airservicesaustralia.com/aip/aip.asp?pg=10)
-- **ERSA** — Check the nearest aerodrome information\
+- **ERSA** — Check the nearest aerodrome information
 
 ### Step 2 — Match Your Scenario
 
 | Airspace Type | What It Means | CASA Approval Required? |
 |---|---|---|
 | **Controlled airspace** (Class A/C/D/E) | Actively managed by ATC. Near major airports, busy city areas, military bases. | Yes — Form 101-09 required |
-| **Uncontrolled airspace** (Class G) | No active ATC. Regional airports, rural airstrips. | No — unless above 400 ft AGL, over a movement area / no-fly zone , or drone >25 kg |
+| **Uncontrolled airspace** (Class G) | No active ATC. Regional airports, rural airstrips. | No — unless above 400 ft AGL, over a movement area / no-fly zone, or drone >25 kg |
 | **Restricted airspace** | Special-use areas near military bases, government sites, etc. | Check specific restrictions — approval may be required even when unactivated |
 
 ### Quick Scenarios
 
 **Near a controlled aerodrome?**
 - Apply via Form 101-09
-- You'll need an AROC for using the radio to monitor ATC frequencies (casa instruments usually require you to remain active listening rather than transmitting on the frequency).
-- If operating in a DJI geofenced zone, complete a GeoZone unlock (covered in a future article)
+- You'll need an AROC for using the radio to monitor ATC frequencies (CASA instruments usually require you to remain active listening rather than transmitting on the frequency)
 
 **Near an uncontrolled aerodrome?**
-- Stay below 400 ft AGL 
-- Monitor the CTAF frequency to aware  for situational awareness
-- If any manned traffic is entering the aerodrome and give way to all manned aircraft (land)
+- Stay below 400 ft AGL
+- Monitor the CTAF frequency for situational awareness
+- If any manned traffic is entering the aerodrome, give way to all manned aircraft (land)
 - Avoid runways, taxiways and movement areas
-- Monitor the CTAF frequency
 - No formal approval needed unless you exceed these limits
-
-**Only in a DJI restricted zone (no CASA airspace issue)?**
-- Check the zone type on [DJI FlySafe](https://www.dji.com/flysafe)
-- If CASA approval is needed for the location, get that first
-- Then apply for a DJI Custom Unlock with supporting documents (covered in a future article)
 
 ---
 
 ## Automated Airspace Authorisations (AAA) Trial
 
-Before you reach for Form 101-09, check whether your site is covered by CASA's Automated Airspace Authorisation trial. 
+Before you reach for Form 101-09, check whether your site is covered by CASA's Automated Airspace Authorisation trial.
 
 This allows eligible ReOC holders to get instant approvals for flights within 3 NM of selected controlled airports. Compare this to the traditional Form 101-09 route:
 
@@ -164,7 +156,7 @@ Before each flight under your approval:
 
 - [ ] Complete/update your Flight Plan, Risk Assessment and JSA for the specific operation
 - [ ] CRP signs off on the documentation (check your Operations Manual for internal procedures)
-- [ ] If in a DJI geofenced zone — submit a GeoZone unlock request at least 2–3 business days before the flight and confirm access is granted (you won't be able to take off without it)
+- [ ] Ensure your DJI FlySafe database and firmware are up to date — DJI removed hard geofencing restrictions globally in early 2026, but outdated firmware may still enforce blocks (see our [DJI GEO Zones guide](dji-geo-zones-guide.md))
 - [ ] Submit a NOTAM to CASA at least 2 business days before the flight if required by your approval conditions, and confirm it's active
 - [ ] On the day — check weather, confirm the NOTAM is active, and verify NOTAMs from other operators in the area
 - [ ] Pre-plan your flight route in the remote controller where possible to save time on site
@@ -186,7 +178,3 @@ Before each flight under your approval:
 > **Disclaimer:** This article is for general educational purposes only and does not constitute legal or regulatory advice. Always refer to the [CASA website](https://www.casa.gov.au) and current legislation for the latest requirements. Regulations, fees, processing times and forms may change without notice.
 
 *This article is part of the [OpenReOC](https://github.com/rachelng-rpas/openreoc) series — practical guides for Australian drone operators navigating CASA regulations.*
-
----
-
-
