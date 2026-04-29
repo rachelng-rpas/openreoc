@@ -24,15 +24,13 @@
 | 15 Apr 2026 | Gone through pathway 2 details, procedures&requirements. Drafting pathway 2 guide | 1st draft |
 | 16-23 Apr 2026 | Gap analysis — map current manual against TMI 2024-01 | |
 | 24-25 Apr 2026 | ReOC OONP section -- Main sections Regulatory framwork | drafted and amended ops manual |
-| 26- Apr 2026 | ReOC OONP section -- Appendix Detailed procedures | drafted and amended ops manual In progress |
-
+| 26-28 Apr 2026 | ReOC OONP section -- Appendix Detailed procedures | drafted and amended ops manual |
+| 29- Apr 2026 | Energy Fleet Register -- Appendix | waiting data to amend table |
 
 ### Development (in progress)
 
 | Target | Deliverable | Status |
 |--------|-------------|--------|
-| TBD | Energy Fleet Register — impact energy table across all flight modes, weights, speeds | Not started |
-| TBD | Consent forms — express written (P1), informed consent (P2), occupant notification | Not started |
 | TBD | Internal review and CRP sign-off — full package consistency check | Not started |
 | TBD | Submission — RPAS Multi-Purpose Form + all supporting documents | Not started |
 
