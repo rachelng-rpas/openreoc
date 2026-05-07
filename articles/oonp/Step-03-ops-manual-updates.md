@@ -4,7 +4,7 @@
 
 A step-by-step guide for ReOC holders to review and amend their RPAS Operations Manual for an OONP (Operations Over or Near People) approval under CASA TMI 2024-01.
 
-> 
+> **Author:** Rachel Ng
 > **Last updated:** 7 May 2026
 
 ---
