@@ -6,7 +6,7 @@
 > 
 >  Even for a simpler Pathway 1/2 application, providing this kind of summary gives CASA confidence you've thought it through.
 > 
-> **Last updated:** 14 April 2026
+> **Author:** Rachel Ng | **Last updated:** 14 April 2026
 
 ---
 
