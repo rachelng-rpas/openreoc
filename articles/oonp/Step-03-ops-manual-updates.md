@@ -20,6 +20,24 @@ Before starting, make sure you have:
 
 ---
 
+## Quick Reference — TMI Section Map
+
+| Your manual section | TMI 2024-01 section |
+|---|---|
+| Definitions | Table 1, Table 2 |
+| OONP regulatory framework | Section 1.2 |
+| Pathway 1 procedures | Section 3 |
+| Pathway 2 procedures | Section 4 |
+| Pathway 2 laceration | Section 4.1 |
+| Pathway 2 speed/energy reduction | Section 4.2 |
+| Pathway 2 sheltering | Section 4.3 |
+| Pathway 2 consent (15–34 J) | Section 4.4 |
+| Emergency services exemption | Section 4.5 |
+| Fleet Energy Register | Section 4 (energy demonstration) |
+| Mission reporting | Section 7 |
+
+---
+
 ## Phase 1 — Gap Analysis
 
 Before writing anything, audit your existing manual against TMI 2024-01. This prevents duplication and identifies exactly what needs to change.
@@ -304,19 +322,3 @@ Internal documents that support your operations but do not need to be submitted:
 - ConOps (useful for your own planning but not formally required)
 
 ---
-
-## Quick Reference — TMI Section Map
-
-| Your manual section | TMI 2024-01 section |
-|---|---|
-| Definitions | Table 1, Table 2 |
-| OONP regulatory framework | Section 1.2 |
-| Pathway 1 procedures | Section 3 |
-| Pathway 2 procedures | Section 4 |
-| Pathway 2 laceration | Section 4.1 |
-| Pathway 2 speed/energy reduction | Section 4.2 |
-| Pathway 2 sheltering | Section 4.3 |
-| Pathway 2 consent (15–34 J) | Section 4.4 |
-| Emergency services exemption | Section 4.5 |
-| Fleet Energy Register | Section 4 (energy demonstration) |
-| Mission reporting | Section 7 |
