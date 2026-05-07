@@ -2,6 +2,8 @@
 
 > **Purpose:** This document combines the **Pathway 1 vs Pathway 2 selection framework** with **real-world operational examples** to support consistent decision-making under CASA TMI 2024-01.
 
+> **Author:** Rachel Ng |
+
 ---
 
 ## Contents
