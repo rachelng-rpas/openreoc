@@ -25,7 +25,7 @@
 | 16-23 Apr 2026 | Gap analysis — map current manual against TMI 2024-01 | |
 | 24-25 Apr 2026 | ReOC OONP section -- Main sections Regulatory framwork | drafted and amended ops manual |
 | 26-28 Apr 2026 | ReOC OONP section -- Appendix Detailed procedures | drafted and amended ops manual |
-| 29- Apr 2026 | Energy Fleet Register -- Appendix | waiting data to amend table |
+| 29-7 May 2026 | Energy Fleet Register -- Appendix | Template and table completed |
 
 ### Development (in progress)
 
