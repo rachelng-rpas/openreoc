@@ -52,7 +52,7 @@ Work through your manual in document order. Each section below tells you what to
 
 **Add to your acronym table:**
 
-AIS, GNSS, JARUS, OONP, OSO, SAIL, SORA, TMI — and any others from TMI Table 1 not already in your manual.
+AIS, GNSS, JARUS, OONP, OSO, SAIL, SORA, TMI, and any others from TMI Table 1 not already in your manual.
 
 **Add to your definitions table:**
 
