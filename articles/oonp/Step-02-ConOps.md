@@ -2,9 +2,7 @@
 > Before you update your ops manual, calculate energy, or draft 
 > consent forms, you need a clear picture of what you're actually 
 > applying for. That's what the ConOps does.
-> The TMI 2024-01 for Pathway 1 and Pathway 2 does not require a formal SORA ConOps.
-> CASA's OONP simply asks you to download and complete the form, submit with updated
-> ops manual, and CASA will check completeness.
+> The TMI 2024-01 for Pathway 1 and Pathway 2 DOES NOT require a formal SORA ConOps. CASA's simply asks you to download and complete the form, submit with updated ops manual, and CASA will check completeness.
 > 
 >  Even for a simpler Pathway 1/2 application, providing this kind of summary gives CASA confidence you've thought it through.
 > 
