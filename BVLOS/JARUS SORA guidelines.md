@@ -12,6 +12,10 @@
 
 Intended to provide:
 
-- Risk-proportionate method to determine the required evidence and assurances needed for safe operations within - UAS Operational Category B (check Definitions)
+- Risk-proportionate method to determine the required evidence and assurances needed for safe operations within - UAS Operational Category B ([Terminology & Definitions Bank](RPAS_Terminology_Definitions.md))
+- try to achieve Target Level of Safety (TLOS) ([Terminology & Definitions Bank](RPAS_Terminology_Definitions.md)). The benchmarks are set to match manned aviation so drones don't pose more risk to **uninvolved people and aircraft** than what's already socially accepted.
+- Then SAIL system scales requirements proportionally, high-risk operation (eg. city, near airport) needs to demonstrate tighter the controls on operations than a low-risk one (eg. remote, low altitude). 
+
+
 
 
