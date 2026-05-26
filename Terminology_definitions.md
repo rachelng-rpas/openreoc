@@ -12,7 +12,7 @@ Plain English definitions of regulatory and operational terms. Include the actua
 
 | Term | Definition (Plain English) | Regulatory Reference |
 |------|---------------------------|----------------------|
-| iGRC | Initial ground risk class — the risk level on the ground before any safety measures are applied | AusSORA / SORA 2.5 |
+| iGRC | Intrinsic ground risk class — the risk level on the ground before any safety measures are applied | AusSORA / SORA 2.5 |
 | fGRC | Final ground risk class — the risk level on the ground after safety measures like sheltering or impact reduction are applied | AusSORA / SORA 2.5 |
 | ARC | Air risk class — rates how likely the drone is to encounter other aircraft, based on airspace type | AusSORA / SORA 2.5 |
 | AEC | Airspace encounter category — classifies the type of airspace and likelihood of running into manned aircraft | AusSORA / SORA 2.5 |
