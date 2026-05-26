@@ -65,3 +65,11 @@ Scaled from 1–10. Determined by:
 ## Step 3: Determine fGRC
 
 Determined after mitigation measures in place as described from Annex B ([examining ground risk mitigation measures](http://jarus-rpas.org/wp-content/uploads/2024/06/SORA-v2.5-Annex-B-Release.JAR_doc_27pdf.pdf))
+
+A final GRC > 7 is out of the scope of SORA and should be handled in the certified category [Terminology & Definitions Bank](Terminology_definitions.md).  
+
+## Step 4: Determine iARC
+
+
+## Step 5: 
+
