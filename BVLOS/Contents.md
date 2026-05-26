@@ -1,12 +1,12 @@
 Recording:
 
-regulatory tracker 
+###regulatory tracker 
 - (casa update, consultation, policy change, releases related to RPAS)
 - title
 - link
 - summary
 
-Terminology and definitions bank
+###Terminology and definitions bank
 - terms and definition of casa into plain English
 
 Contract and stakeholder lists
