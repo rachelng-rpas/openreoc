@@ -16,6 +16,38 @@ Intended to provide:
 - try to achieve Target Level of Safety (TLOS) [Terminology & Definitions Bank](Terminology_definitions.md). The benchmarks are set to match manned aviation so drones don't pose more risk to **uninvolved people and aircraft** than what's already socially accepted.
 - Then SAIL system scales requirements proportionally, high-risk operation (eg. city, near airport) needs to demonstrate tighter the controls on operations than a low-risk one (eg. remote, low altitude). 
 
+---
+
+## SORA methodology
+
+```mermaid
+flowchart TD
+    S1[Step #1\nDetailed Operational Information] --> S2[Step #2\nIntrinsic GRC]
+    S1 --> S4[Step #4\nInitial ARC]
+
+    S2 --> GM[Ground Risk Mitigations]
+    GM --> S3[Step #3\nFinal GRC]
+
+    S4 --> AM[Air Risk Mitigations]
+    AM --> S5[Step #5 Optional\nResidual ARC]
+    S5 --> S6[Step #6\nTMPR]
+
+    S3 --> D1{Final GRC ≤ 7?}
+    D1 -->|No| Other[Other Process\ne.g. category certified\nor new application]
+    D1 -->|Yes| S7
+
+    S6 --> S7[Step #7\nSAIL Determination]
+    S7 --> S8[Step #8\nContainment Requirements]
+    S8 --> S9[Step #9\nIdentification of OSOs]
+
+    S9 --> D2{Preliminary agreement\nSteps #2-#9 by\ncompetent authority}
+    D2 -->|Not Agreed| S1
+    D2 -->|Agreed| S10[Step #10\nCompilation of\nComprehensive Safety Portfolio]
+
+    S10 --> D3{Final assessment\nand approval by\ncompetent authority}
+    D3 -->|Not Agreed| S1
+    D3 -->|Agreed| Done([Completed SORA Process])
+```
 
 
 
