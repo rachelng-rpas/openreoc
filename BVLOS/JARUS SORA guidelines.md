@@ -33,7 +33,7 @@ flowchart TD
     S5 --> S6[Step #6\nTMPR]
 
     S3 --> D1{Final GRC ≤ 7?}
-    D1 -->|No| Other[Other Process\ne.g. category certified\nor new application]
+    D1 -->|No| Other[Other Process\ne.g. category certified [Terminology & Definitions Bank](Terminology_definitions.md) \nor new application]
     D1 -->|Yes| S7
 
     S6 --> S7[Step #7\nSAIL Determination]
