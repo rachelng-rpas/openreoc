@@ -49,5 +49,17 @@ flowchart TD
     D3 -->|Agreed| Done([Completed SORA Process])
 ```
 
+---
+
+## Step 1 Documentation of the proposed operation
+
+## Step 2: Determine iGRC
+
+Scaled from 1–10. Determined by:
+
+| Factor | Description |
+|--------|-------------|
+| UA characteristic | Dimension and max speed |
+| At risk population density | Population density in the operational volume and ground risk buffer |
 
 
