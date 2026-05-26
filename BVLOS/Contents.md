@@ -1,19 +1,19 @@
 # Recording:
 
-### regulatory tracker 
+### 1. regulatory tracker 
 - (casa update, consultation, policy change, releases related to RPAS)
 - title
 - link
 - summary
 
-### Terminology and definitions bank
+### 2. Terminology and definitions bank
 - terms and definition of casa into plain English
 
-### Contract and stakeholder lists
+### 3. Contract and stakeholder lists
 
-### Application pathway
+### 4. Application pathway
 
-### Job log 
+### 5. Job log 
 - airspace class
 - approvals required
 - NOTAM?
