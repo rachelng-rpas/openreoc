@@ -68,8 +68,17 @@ Determined after mitigation measures in place as described from Annex B ([examin
 
 A final GRC > 7 is out of the scope of SORA and should be handled in the certified category [Terminology & Definitions Bank](Terminology_definitions.md).  
 
-## Step 4: Determine iARC
+## Step 4: Determine Initial ARC
 
+Four aggregated collision risk categories (ARC-a, b, c, d)[Terminology & Definitions Bank](Terminology_definitions.md). Determined by ([Strategic mitigation for Air risk](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://jarus-rpas.org/wp-content/uploads/2024/06/SORA-Annex-C-v1.0.pdf)):
+
+| Factor | Description |
+|--------|-------------|
+| Airspace type | Typical or atypical (e.g. segregated) |
+| Altitude | Operating altitude of the UAS |
+| ATC status | Controlled vs uncontrolled airspace |
+| Airport environment | Airport vs non-airport |
+| Area type | Urban va rural |
 
 ## Step 5: 
 
