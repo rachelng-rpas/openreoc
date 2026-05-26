@@ -10,7 +10,8 @@
 
 ## Overview
 
-Intended to provide 
-- Risk-proportionate method to determine the required evidence and assurances needed for an UAS to be acceptably safe within the “Specific” category of UAS Operations (check Definitions)
+Intended to provide:
+
+- Risk-proportionate method to determine the required evidence and assurances needed for safe operations within - UAS Operational Category B (check Definitions)
 
 
