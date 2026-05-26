@@ -62,4 +62,6 @@ Scaled from 1–10. Determined by:
 | UA characteristic | Dimension and max speed |
 | At risk population density | Population density in the operational volume and ground risk buffer |
 
+## Step 3: Determine fGRC
 
+Determined after mitigation measures in place as described from Annex B ([examining ground risk mitigation measures](http://jarus-rpas.org/wp-content/uploads/2024/06/SORA-v2.5-Annex-B-Release.JAR_doc_27pdf.pdf))
