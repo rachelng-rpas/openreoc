@@ -1,6 +1,7 @@
 # AC 101-06v1 | AusSORA – Assessment Requirements and Criteria
 
 **CASA release: April 2026**
+**Author: Rachel Ng | 26 May 2026**
 
 🔗 [CASA – About Our Assessment Framework](https://www.casa.gov.au/drones/flight-authorisations/about-our-assessment-framework#Workingoutdronecharacteristicsanddimensions)
 
