@@ -70,7 +70,7 @@ A final GRC > 7 is out of the scope of SORA and should be handled in the certifi
 
 ## Step 4: Determine Initial ARC
 
-Four aggregated collision risk categories (ARC-a, b, c, d)[Terminology & Definitions Bank](Terminology_definitions.md). Determined by ([Strategic mitigation for Air risk](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://jarus-rpas.org/wp-content/uploads/2024/06/SORA-Annex-C-v1.0.pdf)):
+Four aggregated collision risk categories (ARC-a, b, c, d) [Terminology & Definitions Bank](Terminology_definitions.md). Determined by ([Strategic mitigation for Air risk](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://jarus-rpas.org/wp-content/uploads/2024/06/SORA-Annex-C-v1.0.pdf)):
 
 | Factor | Description |
 |--------|-------------|
