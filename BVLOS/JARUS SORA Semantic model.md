@@ -1,6 +1,6 @@
 # SORA Semantic Model
 
-**Author: Rachel Ng | 26 May 2026**
+**Author: Rachel Ng | 27 May 2026**
 
 🔗 [JARUS guidelines on Specific Operations Risk Assessment (SORA)](http://jarus-rpas.org/wp-content/uploads/2024/06/SORA-v2.5-Main-Body-Release-JAR_doc_25.pdf)
 
