@@ -80,12 +80,21 @@ Four aggregated collision risk categories (ARC-a, b, c, d) [Terminology & Defini
 | Airport environment | Airport vs non-airport |
 | Area type | Urban va rural |
 
-## Step 5: Deternube Residual ARC - wutg Strategic mitigation
+## Step 5: Deternube Residual ARC - with Strategic mitigation
 
 Initial ARC --> Strategic mitigation measures --> Residual ARC
+
+Strategic mitigation is outlined under JARUS Annex C, access via [Terminology & Definitions Bank](../Terminology_definitions.md)
 
 | Strategic mitigation | Description |
 |--------|-------------|
 | Operational restrictions | Controlled by UAS operators, eg. boundaries, time of operation |
 | Airspace restriction | Controlled by Authorities, eg. structure and airspace rules |
+
+
+## Step 6: Mitigate remaining Unacceptable residual risk - with TMPR
+
+Tactival Mitigation Performance Requirement (TMPR) address the functions of Detect, Decide, Command, Execute nad Feedback Loop, refer to Annex D for each Residual ARC.
+
+
 
