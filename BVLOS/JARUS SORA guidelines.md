@@ -80,5 +80,12 @@ Four aggregated collision risk categories (ARC-a, b, c, d) [Terminology & Defini
 | Airport environment | Airport vs non-airport |
 | Area type | Urban va rural |
 
-## Step 5: 
+## Step 5: Deternube Residual ARC - wutg Strategic mitigation
+
+Initial ARC --> Strategic mitigation measures --> Residual ARC
+
+| Strategic mitigation | Description |
+|--------|-------------|
+| Operational restrictions | Controlled by UAS operators, eg. boundaries, time of operation |
+| Airspace restriction | Controlled by Authorities, eg. structure and airspace rules |
 
