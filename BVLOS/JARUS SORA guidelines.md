@@ -132,6 +132,7 @@ Tactival Mitigation Performance Requirement (TMPR) address the functions of Dete
 
 Spexific Assurance and Integriy Level (SAIL) is scaled I-IV. This is assigned based on the final and residual ARC.
 
+Highger SAIL --> higher level of integrity and assurance of the OSOs --> reduce loss of control rate
 
 ## Step 8: Determine Containmenet requirements
 
@@ -166,3 +167,4 @@ The SORA considers two states of the operation: in control and loss of control.
 | **State** | Normal operation | Abnormal situation (undesired state) | Emergency situation (unrecovered state) |
 | **Response** | Standard operational procedures | Contingency procedures (return home, manual control, land on a pre-determined site, etc.) | Emergency procedures (land asap or activation of FTS, etc.) |
 | **Plan** | | | Emergency response plan (plan to limit escalating effect of the loss of control of the operation) |
+
