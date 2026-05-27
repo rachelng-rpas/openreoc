@@ -44,3 +44,28 @@ The SORA considers two states of the operation: in control and loss of control.
 - **Emergency procedures**: executed by remote crew (may be supported by automated features like FTS). Aim to either return to an in-control state or minimise hazards until flight ends. Should activate as soon as UA reaches the operational volume boundary, or earlier if recovery is clearly impossible (e.g. loss of propulsion).
 - **ERP**: deals with secondary/escalating effects after loss of control (e.g. emergency services response). Does not deal with controlling the UA itself.
 - **Containment**: technical and operational mitigations to keep the UA within the operational volume and ground risk buffer and reduce likelihood of a flyaway.
+
+
+## Robustness, Integrity and Assurance
+
+Robustness = characteristics of risk mitigation / OSOs, combining level of integrity + level of assurance. Detailed in Annexes B, C, D and E.
+
+Robustness is equal to the lowest level of either integrity or assurance.
+
+### Robustness Matrix
+
+| | Low Assurance | Medium Assurance | High Assurance |
+|---|---|---|---|
+| **Low Integrity** | Low | Low | Low |
+| **Medium Integrity** | Low | Medium | Medium |
+| **High Integrity** | Low | Medium | High |
+
+### Levels of Assurance
+
+| Level | What it means | What the authority does |
+|---|---|---|
+| **Low** | Applicant declares the required integrity has been achieved, with evidence produced but not submitted unless requested | Validates the compliance statement, may request evidence |
+| **Medium** | Applicant provides supporting evidence (typically testing or operational data) | Validates compliance statement and existence of evidence |
+| **High** | Integrity has been verified by a competent third party | Considers the compliance report from the third party |
+
+Specific criteria in the SORA Annexes take precedence. Competent authorities may require different activities to accommodate national specificities (eg. nationally sensitive infrastructure, environmental areas).
