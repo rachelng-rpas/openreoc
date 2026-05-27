@@ -122,5 +122,9 @@ For each Operational Safety Objectives (OSOs), there are a set of criteria provi
 For lower SAILs, some OSOs may not be required to show compliance. The OSOs include UAS design, UAS operator, maintenance, service and training, technical aspect and more.
 
 
+## Step 10: Comprehensive safety portfolio
+
+Documents showing compliance with the requirements resulting from the SORA steps for the proposed operation.
+
 
 
