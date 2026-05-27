@@ -13,7 +13,7 @@
 Intended to provide:
 
 - Risk-proportionate method to determine the required evidence and assurances needed for safe operations within - UAS Operational Category B [Terminology & Definitions Bank](../Terminology_definitions.md)
-- try to achieve Target Level of Safety (TLOS) [Terminology & Definitions Bank](../Terminology_definitions.md). The benchmarks are set to match manned aviation so drones don't pose more risk to **uninvolved people and aircraft** than what's already socially accepted.
+- try to achieve Target Level of Safety (TLOS) [Terminology & Definitions Bank](../Terminology_definitions.md). The benchmarks are set to match manned aviation so drones don't pose more risk to **uninvolved people and aircraft** than what's already socially accepted. The TLOS should be met for both ground and air risk.
 - Then SAIL system scales requirements proportionally, high-risk operation (eg. city, near airport) needs to demonstrate tighter the controls on operations than a low-risk one (eg. remote, low altitude). 
 
 ---
@@ -80,7 +80,7 @@ Four aggregated collision risk categories (ARC-a, b, c, d) [Terminology & Defini
 | Airport environment | Airport vs non-airport |
 | Area type | Urban va rural |
 
-## Step 5: Deternube Residual ARC - with Strategic mitigation
+## Step 5: Determine Residual ARC - with Strategic mitigation
 
 Initial ARC --> Strategic mitigation measures --> Residual ARC
 
@@ -94,7 +94,17 @@ Strategic mitigation is outlined under JARUS Annex C, access via [Terminology & 
 
 ## Step 6: Mitigate remaining Unacceptable residual risk - with TMPR
 
-Tactival Mitigation Performance Requirement (TMPR) address the functions of Detect, Decide, Command, Execute nad Feedback Loop, refer to Annex D for each Residual ARC.
+Tactival Mitigation Performance Requirement (TMPR) address the functions of Detect, Decide, Command, Execute nad Feedback Loop, refer to Annex D for each Residual ARC [Terminology & Definitions Bank](../Terminology_definitions.md).
+
+
+## Step 7: Determine SAIL 
+
+Spexific Assurance and Integriy Level (SAIL) is scaled I-IV. This is assigned based on the final and residual ARC.
+
+## Step 8: Determine Containmenet requirements
+
+Three possible levels of Containment robustness: Low, Medium and High. Refer to Annex E, each robustness has its set of safety requirement [Terminology & Definitions Bank](../Terminology_definitions.md).
+
 
 
 
