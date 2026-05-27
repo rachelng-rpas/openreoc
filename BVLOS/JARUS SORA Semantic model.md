@@ -48,7 +48,7 @@ The SORA considers two states of the operation: in control and loss of control.
 
 ## Robustness, Integrity and Assurance
 
-Robustness = characteristics of risk mitigation / OSOs, combining level of integrity + level of assurance. Detailed in Annexes B, C, D and E.
+Robustness = characteristics of risk mitigation / OSOs, combining level of integrity + level of assurance. Detailed in Annexes B, C, D and E, refer: [Regular tracker](../Terminology_definitions.md).
 
 Robustness is equal to the lowest level of either integrity or assurance.
 
