@@ -81,10 +81,9 @@ Scaled from 1–10. Determined by:
 
 | Layer | Components |
 |-------|-----------|
-| Intrinsic GRC footprint | ← entire span → |
+| Intrinsic GRC footprint | Area to which the operation needs to be contained: Operational Volume + Risk Buffer|
 | Operational Volume | Flight geography + Contingency volume |
 | Beyond operational volume | Risk buffer + Adjacent area |
-| Containment boundary | Area to which the operation needs to be contained |
 
 
 ## Step 3: Determine fGRC
@@ -96,6 +95,13 @@ A final GRC > 7 is out of the scope of SORA and should be handled in the certifi
 ## Step 4: Determine Initial ARC
 
 Four aggregated collision risk categories (ARC-a, b, c, d) [Terminology & Definitions Bank](../Terminology_definitions.md). Determined by ([Strategic mitigation for Air risk](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://jarus-rpas.org/wp-content/uploads/2024/06/SORA-Annex-C-v1.0.pdf)):
+
+### Air Risk Volumes
+| Layer | Components |
+|-------|-----------|
+| Airspace to consider for ARC | Airspace to which the operation needs to be contained: Operational Volume|
+| Operational Volume | Flight geography + Contingency volume |
+| Beyond operational volume | Adjacent airspace |
 
 | Factor | Description |
 |--------|-------------|
@@ -151,5 +157,12 @@ For lower SAILs, some OSOs may not be required to show compliance. The OSOs incl
 
 Documents showing compliance with the requirements resulting from the SORA steps for the proposed operation.
 
+### 3. Operation Control States
+
+| Operation in control | | Loss of control of the operation |
+|---|---|---|
+| **Normal operation** | **Abnormal situation** (undesired state) | **Emergency situation** (unrecovered state) |
+| Standard operational procedures | Contingency procedures (return home, manual control, land on a pre-determined site, etc.) | Emergency procedures (land asap or activation of FTS, etc.) |
+| | | Emergency response plan (plan to limit escalating effect of the loss of control of the operation) |
 
 
