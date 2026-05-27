@@ -103,7 +103,11 @@ Spexific Assurance and Integriy Level (SAIL) is scaled I-IV. This is assigned ba
 
 ## Step 8: Determine Containmenet requirements
 
-Three possible levels of Containment robustness: Low, Medium and High. Refer to Annex E, each robustness has its set of safety requirement [Terminology & Definitions Bank](../Terminology_definitions.md).
+Three possible levels of Containment robustness: Low, Medium and High. Refer to Annex E [Terminology & Definitions Bank](../Terminology_definitions.md).
+
+For each Operational Safety Objectives (OSOs), there are a set of criteria provided. The SAIL identifies what criteria to be met to achieve different level of Integrity and Assurance.
+
+For lower SAILs, some OSOs may not be required to show compliance. The OSOs include UAS design, UAS operator, maintenance, service and training, technical aspect and more.
 
 
 
