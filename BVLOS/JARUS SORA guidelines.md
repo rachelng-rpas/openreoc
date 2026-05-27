@@ -157,9 +157,7 @@ For lower SAILs, some OSOs may not be required to show compliance. The OSOs incl
 
 Documents showing compliance with the requirements resulting from the SORA steps for the proposed operation.
 
-### 3. Operation Control States
-
-### 3. Operation Control States
+### Operation Control States
 
 The SORA considers two states of the operation: in control and loss of control.
 
