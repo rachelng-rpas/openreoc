@@ -159,10 +159,12 @@ Documents showing compliance with the requirements resulting from the SORA steps
 
 ### 3. Operation Control States
 
-| Operation in control | | Loss of control of the operation |
-|---|---|---|
-| **Normal operation** | **Abnormal situation** (undesired state) | **Emergency situation** (unrecovered state) |
-| Standard operational procedures | Contingency procedures (return home, manual control, land on a pre-determined site, etc.) | Emergency procedures (land asap or activation of FTS, etc.) |
-| | | Emergency response plan (plan to limit escalating effect of the loss of control of the operation) |
+### 3. Operation Control States
 
+The SORA considers two states of the operation: in control and loss of control.
 
+| | In control | In control | Loss of control |
+|---|---|---|---|
+| **State** | Normal operation | Abnormal situation (undesired state) | Emergency situation (unrecovered state) |
+| **Response** | Standard operational procedures | Contingency procedures (return home, manual control, land on a pre-determined site, etc.) | Emergency procedures (land asap or activation of FTS, etc.) |
+| **Plan** | | | Emergency response plan (plan to limit escalating effect of the loss of control of the operation) |
