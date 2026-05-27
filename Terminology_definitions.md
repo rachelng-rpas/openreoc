@@ -22,8 +22,6 @@ Plain English definitions of regulatory and operational terms. Include the actua
 | Robustness | Combines integrity and assurance into one rating — optional, low, medium, or high | SORA 2.5 OSO |
 | OSO | Operational safety objective — specific safety goals that manage risks if the drone goes out of control | AusSORA / SORA 2.5 |
 | ConOps | Concept of operations — the document describing what you're doing, where, how, and what could go wrong | AusSORA Step 1 |
-| Operational Volume | Operational area + contingency volume combined — the full space the drone might use | AusSORA / SORA 2.5 |
-| Ground Risk Buffer | Extra space beyond the operational volume to account for a loss of control event | AusSORA / SORA 2.5 |
 | Containment | Managing risk in the adjacent area if OSOs fail — operation expected to end if loss of control goes beyond the ground risk buffer | AusSORA Step 6 |
 | ERP | Emergency response plan — how local authorities (fire, ATC) will respond if the drone is out of control | AusSORA Step 7 |
 | M1 | Sheltering mitigation — reduces ground risk by accounting for structures that protect people on the ground | AusSORA GRC |
