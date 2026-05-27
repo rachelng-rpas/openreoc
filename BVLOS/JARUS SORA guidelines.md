@@ -101,9 +101,21 @@ Tactival Mitigation Performance Requirement (TMPR) address the functions of Dete
 
 Spexific Assurance and Integriy Level (SAIL) is scaled I-IV. This is assigned based on the final and residual ARC.
 
+
 ## Step 8: Determine Containmenet requirements
 
-Three possible levels of Containment robustness: Low, Medium and High. Refer to Annex E [Terminology & Definitions Bank](../Terminology_definitions.md).
+Three levels of robustness of Containment: Low, Medium and High. Refer to Annex E [Terminology & Definitions Bank](../Terminology_definitions.md).
+
+Factors affecting the Containment level includes:
+- how big/fast the drone
+- at what SAILs level
+- population density
+- and more.
+
+
+## Step 9: Identification of Operational Safety Objectives (OSOs)
+
+Refer to Annex E [Terminology & Definitions Bank](../Terminology_definitions.md).
 
 For each Operational Safety Objectives (OSOs), there are a set of criteria provided. The SAIL identifies what criteria to be met to achieve different level of Integrity and Assurance.
 
