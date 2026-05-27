@@ -16,6 +16,21 @@ Intended to provide:
 - try to achieve Target Level of Safety (TLOS) [Terminology & Definitions Bank](../Terminology_definitions.md). The benchmarks are set to match manned aviation so drones don't pose more risk to **uninvolved people and aircraft** than what's already socially accepted. The TLOS should be met for both ground and air risk.
 - Then SAIL system scales requirements proportionally, high-risk operation (eg. city, near airport) needs to demonstrate tighter the controls on operations than a low-risk one (eg. remote, low altitude). 
 
+At the time of publication, SORA is currently comprised of the following documents: 
+
+1. Main Body: Describes the SORA risk assessment process;
+2. Annex A: Guidelines on collecting and presenting system and operation information for a specific UAS operation;
+3. Annex B: Integrity and assurance levels for the mitigations used to reduce the intrinsic Ground Risk Class;
+4. Annex C: Strategic Mitigation Collision Risk Assessment;
+5. Annex D: Tactical Mitigation Collision Risk Assessment;
+6. Annex E: Integrity and assurance levels for the Operational Safety Objectives (OSO);
+7. Annex F: Theoretical basis for ground risk classification and mitigation;
+8. Annex I: Glossary of Terms; Cyber Safety Extension for Annex B & E. 
+
+SORA Edition 2.5 will be extended by Annex H in the near future. 
+
+Annexes G, and J will be added to SORA as part of a future edition. 
+
 ---
 
 ## SORA methodology
@@ -61,6 +76,16 @@ Scaled from 1–10. Determined by:
 |--------|-------------|
 | UA characteristic | Dimension and max speed |
 | At risk population density | Population density in the operational volume and ground risk buffer |
+
+### Ground Risk Volumes
+
+| Layer | Components |
+|-------|-----------|
+| Intrinsic GRC footprint | ← entire span → |
+| Operational Volume | Flight geography + Contingency volume |
+| Beyond operational volume | Risk buffer + Adjacent area |
+| Containment boundary | Area to which the operation needs to be contained |
+
 
 ## Step 3: Determine fGRC
 
