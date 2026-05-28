@@ -85,18 +85,18 @@ flowchart TD
 
 ## Step 1: Documentation of the proposed operation
 
-Give contextual and detailed information on the proposed operation concepts and the intended safety claims made during Phase 1 of the SORA process.
-
-This determine whether the operator should carry out the SORA process.
+Give contextual and detailed information on the proposed operation concepts and the intended safety claims made during Phase 1 of the SORA process. This determines whether the operator should carry out the SORA process.
 
 ### Task description
 
-1. Compile:
-    A. Maps, figures, diagrams and information detailing the Operational volume, ground risk buffers (facilitate later to determine: iGRC, iARC and adjacent areas and airspace).
-   B. information on operational, technical and organisation element (operation and functions during flights, intended flight profiles, states, moades that provide safety procedures throughout the nominal, contingency and emergency phase of flight, ground and air risk mitigation both strategic and tactical to reduce iGRC and iARC)
-   C. Description of the contingency volume and ground risk buffers, and how they are determined
-   D. use Annex A - A.3 to assist understanding the type of data to be presented and information that supports the risk assessment
-   
+Compile:
+
+| Item | Description |
+|------|-------------|
+| A | Maps, figures, diagrams and information detailing the operational volume, ground risk buffers (facilitate later to determine: iGRC, iARC and adjacent areas and airspace) |
+| B | Information on operational, technical and organisational elements (operation and functions during flights, intended flight profiles, states, modes that provide safety procedures throughout the nominal, contingency and emergency phase of flight, ground and air risk mitigation both strategic and tactical to reduce iGRC and iARC) |
+| C | Description of the contingency volume and ground risk buffers, and how they are determined |
+| D | Use Annex A - A.3 to assist understanding the type of data to be presented and information that supports the risk assessment |
 
 ## Step 2: Determine iGRC
 
