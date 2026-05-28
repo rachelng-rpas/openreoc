@@ -100,12 +100,32 @@ Compile:
 
 ## Step 2: Determine iGRC
 
+This step only identify, calculate and documentate the iGRC, no mititgation method yet.
+
 Scaled from 1–10. Determined by:
 
-| Factor | Description |
+| Identify | Description |
 |--------|-------------|
-| UA characteristic | Dimension and max speed |
-| At risk population density | Population density in the operational volume and ground risk buffer |
+| UA characteristic | Max dimension and max speed |
+| iGRC footprint (Operational volume) and ground risk buffer | Identify flight geography, calculate contingency volume, calculate initial ground risk buffer |
+| At risk population density | Population density within the iGRC footprint |
+
+### Table 2 - Intrinsic Ground Risk Class (iGRC) Determination
+
+| | | 1m / ~3ft | 3m / ~10ft | 8m / ~25ft | 20m / ~65ft | 40m / ~130ft |
+|---|---|---|---|---|---|---|
+| | **Max speed** | **25 m/s** | **35 m/s** | **75 m/s** | **120 m/s** | **200 m/s** |
+| **Max iGRC population density (people/km²)** | Controlled Ground Area | 1 | 1 | 2 | 3 | 3 |
+| | < 5 | 2 | 3 | 4 | 5 | 6 |
+| | < 50 | 3 | 4 | 5 | 6 | 7 |
+| | < 500 | 4 | 5 | 6 | 7 | 8 |
+| | < 5,000 | 5 | 6 | 7 | 8 | 9 |
+| | < 50,000 | 6 | 7 | 8 | 9 | 10 |
+| | > 50,000 | 7 | 8 | Not part of SORA | Not part of SORA | Not part of SORA |
+
+- A UA weighing ≤ 250g and max speed ≤ 25 m/s is considered iGRC of 1 regardless of population density.
+- A UA expected to not penetrate a standard dwelling will get a -1 GRC reduction in Step 3 from the M1(A) sheltering mitigation when not overflying large open assemblies of people, see Annex B for additional details.
+- For UA with a max characteristic dimension > 40m the iGRC should be calculated following the guidance in Appendices A and B in Annex F.
 
 ## Step 3: Determine fGRC
 
