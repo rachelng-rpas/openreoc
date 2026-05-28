@@ -2,7 +2,7 @@
 
 **JARUS edition date: 13 May 2024**
 
-**Author: Rachel Ng | 26 May 2026**
+**Author: Rachel Ng | 28 May 2026**
 
 🔗 [JARUS guidelines on Specific Operations Risk Assessment (SORA)](http://jarus-rpas.org/wp-content/uploads/2024/06/SORA-v2.5-Main-Body-Release-JAR_doc_25.pdf)
 
@@ -33,7 +33,24 @@ Annexes G, and J will be added to SORA as part of a future edition.
 
 ---
 
+## Before start of SORA - considerations
+
+Only if none of the following applies, use SORA:
+
+1. Confirm which category of operation it is [Terminology & Definitions Bank](../Terminology_definitions.md).
+    - "Category A - Open" --> harmless
+    - "Category B - Specific" --> NICE
+    - "Category C - Certified" --> sit out of SORA
+2. Is there "standard scenario" from CASA
+3. Any specific no-go criteria from CASA
+
+---
+
 ## SORA methodology
+
+Phase 1: Step 1-9 --> assess and identify safety requiremenets
+
+Phase 2: Step 10 --> compliance with the derived safety requirements from Phase 1
 
 ```mermaid
 flowchart TD
