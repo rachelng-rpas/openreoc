@@ -110,7 +110,14 @@ Scaled from 1–10. Determined by:
 | iGRC footprint (Operational volume) and ground risk buffer | Identify flight geography, calculate contingency volume, calculate initial ground risk buffer |
 | At risk population density | Population density within the iGRC footprint |
 
-### Table 2 - Intrinsic Ground Risk Class (iGRC) Determination
+### Table 2 - Intrinsic UA Characteristics
+
+| Characteristic | Description |
+|---|---|
+| **Max UA dimension** | Wingspan (fixed wing), blade diameter (rotorcraft), max distance between blade tips (multi-copter) |
+| **Max speed** | Maximum possible commanded airspeed as defined by the designer — not mission specific max airspeed, as reducing mission airspeed may not necessarily reduce impact area. Mitigations that limit airspeed below max speed during impact can be accounted for in Annex B (Step #3). |
+
+### Table 3 - Intrinsic Ground Risk Class (iGRC) Determination
 
 | | | 1m / ~3ft | 3m / ~10ft | 8m / ~25ft | 20m / ~65ft | 40m / ~130ft |
 |---|---|---|---|---|---|---|
