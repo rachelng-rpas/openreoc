@@ -107,7 +107,7 @@ Scaled from 1–10. Determined by:
 | Identify | Description |
 |--------|-------------|
 | UA characteristic | Max dimension and max speed |
-| iGRC footprint (Operational volume) and ground risk buffer | Identify flight geography, calculate contingency volume, calculate initial ground risk buffer |
+| iGRC footprint (Operational volume & ground risk buffer) | Identify flight geography, calculate contingency volume, calculate initial ground risk buffer |
 | At risk population density | Population density within the iGRC footprint |
 
 ### Table 2 - Intrinsic UA Characteristics
