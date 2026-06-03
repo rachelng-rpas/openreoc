@@ -80,6 +80,25 @@ flowchart TD
     D3 -->|Not Agreed| S1
     D3 -->|Agreed| Done([Completed SORA Process])
 ```
+## Step 0: Defining Things
+
+Terminology and definitions: [Terminology & Definitions Bank](../Terminology_definitions.md).
+
+### Ground Risk Buffer
+
+The ground risk buffer extends the operational area to account for where a UA may land following a loss of control. Either:
+
+- **1:1 ratio** — 1 ft of buffer for every 1 ft of AGL operating altitude (default), or
+- **Applicant-defined buffer** — a different value proposed by the applicant using the principles in Annex E, Section E.4, Criteria 3.
+- Above are the **Initial ground risk buffer**. Buffer can be different than this initial one only when its medium and high level of containment or use of ground risk mitigations (eg. Parachutes).
+
+### Operational Volume
+
+The operational volume consists of the **flight geography** plus the **contingency volume**, and must account for:
+
+- Navigation system accuracy
+- Command and control latencies
+- Any other system errors that affect where the UA may actually be during flight
 
 ---
 
@@ -130,9 +149,25 @@ Scaled from 1–10. Determined by: max **UA characteristics** and **Population d
 | | < 50,000 | 6 | 7 | 8 | 9 | 10 |
 | | > 50,000 | 7 | 8 | Not part of SORA | Not part of SORA | Not part of SORA |
 
+### Population density values not available
+
+If the population density values are not available, not accurate or an authority would rather use qualitative descriptors for the iGRC table, the following approximations can be used as guidance:
+
+### Table 1 - Population Density Categories
+
+| Population density (people/km²) | Qualitative descriptor | Area description |
+|---|---|---|
+| Controlled ground area | Controlled ground / Extremely remote | Areas controlled where unauthorised people are not allowed to enter. Hard to reach areas (mountains, remote deserts, large bodies of water away from expected boat traffic) where it is reasonably expected that people will rarely be present. |
+| < 5 | Remote | Areas where people may be present, such as forests, deserts, large farm parcels. Areas where there is approximately 1 small building every km². |
+| < 50 | Lightly populated | Areas of small farms. Residential areas with very large lots (~4 acres / 16,000 m²). |
+| < 500 | Sparsely populated / Residential lightly populated | Areas comprised of homes and small businesses with large lot sizes (~1 acre / 4,000 m²). |
+| < 5,000 | Suburban / Low density metropolitan | Areas of single-family homes on small lots, apartment complexes, commercial buildings. Can contain multistory buildings, but generally most below 3–4 stories. |
+| < 50,000 | High density metropolitan | Areas of mostly large multistory buildings. The downtown area of most cities. Areas of dense skyscrapers. |
+| > 50,000 | Assemblies of people | The densest areas in the largest cities. Large gatherings such as professional sporting events, large concerts, etc. |
+
 - A UA weighing ≤ 250g and max speed ≤ 25 m/s is considered iGRC of 1 regardless of population density.
 - A UA expected to not penetrate a standard dwelling will get a -1 GRC reduction in Step 3 from the M1(A) sheltering mitigation when not overflying large open assemblies of people, see Annex B for additional details.
-- For UA with a max characteristic dimension > 40m the iGRC should be calculated following the guidance in Appendices A and B in Annex F.
+- For UA with a max characteristic dimension > 40m the iGRC should be calculated following the guidance in Appendices A and B in Annex F. Or if iGRC no correspondance (grey cells in table) are outside scope of SORA, should consider the certified category.
 
 ## Step 3: Determine fGRC
 
