@@ -102,7 +102,7 @@ Compile:
 
 This step only identify, calculate and documentate the iGRC, no mititgation method yet.
 
-Scaled from 1–10. Determined by:
+Scaled from 1–10. Determined by: max **UA characteristics** and **Population density**.
 
 | Identify | Description |
 |--------|-------------|
