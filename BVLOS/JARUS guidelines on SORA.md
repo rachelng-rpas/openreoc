@@ -165,6 +165,27 @@ If the population density values are not available, not accurate or an authority
 | < 50,000 | High density metropolitan | Areas of mostly large multistory buildings. The downtown area of most cities. Areas of dense skyscrapers. |
 | > 50,000 | Assemblies of people | The densest areas in the largest cities. Large gatherings such as professional sporting events, large concerts, etc. |
 
+- Use authority-designated population density maps where available
+- If no acceptable maps exist, use the **qualitative descriptors in Table 1** to estimate the population density band
+- Authority may require or permit applicants to provide their own population density maps
+
+### Table 2 - Population Density Information
+
+| Max height (ft AGL) | Max height (m AGL) | Suggested optimal grid size |
+|---|---|---|
+| 500 | 152 | > 200 × 200 m |
+| 2,500 | 305 | > 400 × 400 m |
+| 5,000 | 762 | > 1,000 × 1,000 m |
+| 10,000 | 1,524 | > 2,000 × 2,000 m |
+| 20,000 | 3,048 | > 4,000 × 4,000 m |
+| 60,000 | 6,096 | > 5,000 × 5,000 m |
+| > 60,000 | 18,288 | > 10,000 × 10,000 m |
+
+- If the designated map is not at the suggested grid size, use the closest available — if smaller than suggested, smooth to the suggested grid size
+- If the applicant identifies errors in the designated map, alternative data may be submitted (other mapping products, satellite imagery, on-site inspection, local knowledge) — if accepted by the authority, the applicant may use it to determine iGRC
+- Time-based arguments (e.g. flying at night) to reduce people at risk are addressed in **Step 3**, not here
+- See also: Annex F, Section 3.2
+
 - A UA weighing ≤ 250g and max speed ≤ 25 m/s is considered iGRC of 1 regardless of population density.
 - A UA expected to not penetrate a standard dwelling will get a -1 GRC reduction in Step 3 from the M1(A) sheltering mitigation when not overflying large open assemblies of people, see Annex B for additional details.
 - For UA with a max characteristic dimension > 40m the iGRC should be calculated following the guidance in Appendices A and B in Annex F. Or if iGRC no correspondance (grey cells in table) are outside scope of SORA, should consider the certified category.
