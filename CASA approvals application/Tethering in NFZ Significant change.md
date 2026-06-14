@@ -36,7 +36,7 @@
 | — | Approval granted | Conditions and limitations to be noted |
 
 ---
-## Fees
+## Fees quoted
 | Item | Cost (ex GST) | GST | Total (inc GST) |
 |--------|--------:|--------:|--------:|
 | Tethering in No-Fly Zones – Uncrewed Approvals | $600 | $60 | $660 |
