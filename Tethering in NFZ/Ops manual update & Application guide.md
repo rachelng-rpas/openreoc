@@ -1,10 +1,17 @@
 # Tethering in No-Fly Zone (NFZ) — ReOC Upgrade Guide & Template
 
-> Internal guidance document. Developed from operational experience reviewing a ReOC
-> Operations Manual upgrade (v1 → v2) and a real CASA submission timeline.
+> Guidance document from the OpenReOC project. Developed from operational
+> experience reviewing a ReOC Operations Manual upgrade (v1 → v2 → v3) and a
+> real CASA significant-change submission, **approved on 17 Nov 2026**.
+> Last updated: 22 Nov 2026.
+>
 > This is **not** a regulatory document — always check the current Part 101 MOS,
 > CASR, and applicable CASA instruments before relying on any clause numbers below,
 > as these change periodically.
+>
+> Companion files in this folder: [Case study and Fee](Case%20study%20and%20Fee.md) ·
+> [MOS clause quick reference](MOS%20clause%20quick%20reference.md) ·
+> [Scenario questionnaire — how to prepare](Scenario%20questionnaire%20-%20how%20to%20prepare.md)
 
 ---
 
@@ -55,6 +62,49 @@ operator must write the missing Appendix D procedure, get it approved by CASA
 as a significant change to the ReOC, and only then can the CRP approve
 individual flights against it.
 
+### Legal basis and what CASA actually approves
+
+The permission to fly tethered inside a controlled aerodrome's no-fly zone comes
+from the Part 101 MOS, not from the ReOC itself (clause detail in the
+[MOS clause quick reference](MOS%20clause%20quick%20reference.md)):
+
+- **MOS 4.03(1)** prohibits RPA operations and flights in the no-fly zone of a
+  controlled aerodrome, subject to exceptions.
+- **MOS 4.03(2)** lets a *certified RPA operator* (or its remote pilot) conduct a
+  **tethered operation** in that zone if it complies with **MOS 4.04**.
+- **MOS 4.04(3)** sets the conditions: tether no longer than 150 ft; RPA no higher
+  than 150 ft above aerodrome elevation; flown per the operator's *documented
+  practices and procedures*; ATC notified before take-off and ATC instructions
+  followed; and either in the grey area or — if in the black area — not within
+  3 NM of a runway measurement point.
+
+Because 4.04(3)(c) ties the operation to your documented practices and
+procedures, what CASA approves is **the procedures in your Operations Manual**, as
+a *significant change* under **MOS 10A.01**. In the case documented here the
+approval letter:
+
+- named the Operations Manual version and date that was approved,
+- confirmed the change was consistent with the nature and scope of the ReOC and
+  would have no adverse effect on aviation safety, and
+- stated the ReOC did **not** need to be reissued.
+
+The inspector also confirmed that, for a significant-change-only application,
+*acceptance of the manual constitutes the approval*.
+
+> **Worth reviewing in your own manual:** the template wording in section 5.4 says
+> tethered NFZ operations "must not be conducted without prior CASA approval". Read
+> against MOS 4.03(2) and 4.04(3), the MOS conditions are met by following your
+> approved procedures — CASA approves the procedures, not each flight. In the case
+> documented here the manual contained similar "CASA approval required" wording and
+> CASA did not query it, but check that your manual doesn't promise a per-flight
+> CASA approval you don't intend to seek.
+
+**A different route — area approval.** Operating near a controlled aerodrome can
+also be authorised through an area approval (Form 101-09, CASR 101.030 — see
+[Form 101-09 Area Approval](../CASA%20approvals%20application/Form%20101-09%20Area%20Approval.md)).
+The tethering route in this guide doesn't use that form: it relies on MOS 4.03(2)
+and 4.04, with your procedures approved through the significant-change process.
+
 ---
 
 ## 2. What needs to change to be allowed to fly tethering in NFZ
@@ -89,10 +139,23 @@ controlled aerodrome, the operator generally needs to:
      displacement, flight time reduction, VLOS, NOTAM status).
    - Emergency procedures specific to tethered operations (tether retract
      failure, lost link while tethered, tether system maintenance intervals).
+   - Identification of the RPA platform(s) and tether system used (CASA asked for
+     this explicitly).
+   - Crew requirements: minimum crew (e.g. two for a non-automated tether), crew
+     training and CRP approval for tethered operations.
+   - Standard phraseology tables for the remote pilot, tether operator and any
+     emergency commands.
+   - Tethered operations at non-controlled aerodromes and helicopter landing
+     sites (MOS 9.05) and at military controlled aerodromes (letter of agreement
+     and clearance before take-off).
 5. **Submit a significant change application to CASA** with the updated
    Operations Manual, using the correct form (see Section 4 — common pitfall).
 6. **Update the Amendment Record** of the Operations Manual to log the change,
    the affected sections, and the approval status.
+7. **Prepare for CASA's scenario questionnaire** — after its first review CASA
+   may ask you to complete written scenario questions (tether length at example
+   sites, no-fly-zone geometry, NOTAMs). See
+   [Scenario questionnaire — how to prepare](Scenario%20questionnaire%20-%20how%20to%20prepare.md).
 
 ---
 
@@ -112,14 +175,23 @@ controlled aerodrome, the operator generally needs to:
    attaching the updated Operations Manual.
    - **Use the correct form** — a significant/non-significant change form, not
      the initial issue/variation/renewal form (this was a real cause of delay).
-7. **Respond to CASA feedback** — CASA may request clarifications or
-   re-lodgement on the correct form.
+7. **Respond to CASA feedback** — expect more than one round. CASA may request
+   re-lodgement on the correct form, then (once an inspector is assigned) provide
+   its template tether procedures and ask you to insert any missing sections and
+   complete a written scenario questionnaire. Answer every point in one
+   consolidated reply with evidence attached.
 8. **Pay any assessment/processing fees** quoted by CASA.
-9. **Await CASA assessment outcome** — acknowledgement, possible CRP
-   interview/Q&A, and final approval with any conditions/limitations noted.
-10. **On approval**, update the Amendment Record with the approval date and
-    conditions, and brief all relevant pilots/crew on the new procedure before
-    conducting any tethered NFZ operations.
+9. **Await CASA assessment outcome** — CASA doesn't send individual progress
+   updates (it points applicants to its published service delivery timeframes).
+   In the case documented here an inspector was assigned about four months after
+   payment; the assessment itself then took about five and a half weeks, with
+   written feedback instead of an interview, ending in an approval letter.
+10. **On approval**, check the letter names the exact manual version and date you
+    submitted (if it differs from your cover page, ask CASA to confirm which
+    document was approved rather than editing the accepted file), file the
+    letter, update the Amendment Record with the approval date and conditions, and
+    brief all relevant pilots/crew on the new procedure before conducting any
+    tethered NFZ operations.
 11. **Operational use** — for each planned tethered NFZ operation: complete
     Flight Record/JSA/risk assessment, submit NOTAM within the required
     timeframe, confirm CRP approval, confirm NOTAM active, and proceed per the
@@ -149,6 +221,14 @@ required for tethering in NFZ approval.
 | 13 | Are there emergency procedures specific to tethered NFZ operations (tether retract failure, lost link while tethered, maintenance intervals)? | Add emergency procedures subsection. |
 | 14 | Is the Amendment Record up to date, listing the affected section numbers and a description of the change? | Add a new amendment record row referencing the updated sections. |
 | 15 | Is the correct CASA form identified for lodging this as a significant/non-significant change (not an initial issue/variation/renewal form)? | Confirm correct form before lodging — common cause of processing delay. |
+| 16 | Does the tethering appendix identify the RPA platform(s) and the tether system used? | Add a "Tether system and components" section naming the RPA and tether (manufacturer, type, automated or manual). CASA asked for this explicitly. |
+| 17 | Are minimum crew, crew training and CRP approval for tethered operations stated? | Add crew requirements (e.g. two crew for a non-automated tether; a number of supervised training tethered operations; a theory element on tether length calculation). |
+| 18 | Are standard phraseology tables (remote pilot, tether operator, emergency commands) present and consistent with your emergency procedures? | CASA's template is a guide, not a prescribed standard, so optional commands can be left out — but if you include emergency commands, say in the emergency procedures when each one is used. |
+| 19 | Does your non-controlled aerodrome / HLS procedure cover all of MOS 9.05(3) and (4)? | Add: 150 ft tether; RPA no higher than 150 ft above aerodrome elevation; grey area, or black area not within 3 NM of a runway measurement point; for HLS at least 465 m from the central axis and VLOS. |
+| 20 | Do the numbers in your no-fly-zone description match MOS 4.05 (distances either side of the centreline, 7 km, 8.5 km, 3 NM, 300 ft / 150 ft)? | Cross-check every number against the MOS text, not a figure or an older manual (see the [quick reference](MOS%20clause%20quick%20reference.md)). |
+| 21 | Have you compared each section of CASA's template tether procedures with your manual, line by line? | CASA expects you to find and insert missing sections; be ready to explain anything you leave out. |
+| 22 | Does your near-people section address work next to buildings (building wash, window cleaning)? | Add a cross-reference and controls (see section 5.5). |
+| 23 | After restructuring, are all section numbers, cross-references and Amendment Record entries still correct? | Re-render the document and check each reference. |
 
 **Output of this review:** a list of section numbers in your manual that need
 to be added or amended, which becomes your CASA submission's "affected
@@ -198,23 +278,33 @@ are examples — renumber to match your manual's existing structure.
 > [Insert figure(s) showing the no-fly zone shading for relevant
 > aerodromes/airspace.]
 >
-> For controlled aerodromes, the no-fly zone includes the black-shaded areas.
-> These areas extend along the runway centreline(s) to [distance] from each
-> runway threshold and laterally to [distance] either side, encompassing the
-> runway strip and approach/departure paths, where CASA approval is required
-> for any RPA operation.
+> For controlled aerodromes, the no-fly zone includes the black-shaded areas
+> depicted in the figure. At the runway, the black area is a rectangle extending
+> **500 m on either side of the runway centreline** and overlying the runway strip
+> (Part 101 MOS 4.05(3)(b)). The approach and departure paths extend from the ends
+> of the runway strip, splaying at 15° either side, to **7 km** (black, from the
+> ground up) and **8.5 km** (cross-hatched, from 300 ft above aerodrome elevation)
+> (MOS 4.05(2) and 4.05(3)(a)). Tethered operations are not permitted in the black
+> area within 3 NM of the runway measurement point (MOS 4.04(3)(f)).
 >
-> For the grey-shaded area, operations within [radius] are permitted provided
-> the RPA does not exceed [height] AGL or breach the Obstacle Limitation
-> Surfaces (OLS).
+> The grey area extends 3 NM in all directions from the runway measurement point
+> (MOS 4.05(4)). Tethered operations in the grey area are permitted provided the
+> tether does not exceed 150 ft, the RPA does not exceed 150 ft above aerodrome
+> elevation (MOS 4.04(3)(a) and (b)), and the flight does not breach the Obstacle
+> Limitation Surfaces (OLS).
 >
-> The white areas beyond the approach/departure splays and outside the
-> [radius] serve as transition zones, where operations may reach a maximum
-> height of [height] within designated cross-hatched extensions, reverting to
-> standard height limitations once clear of these zones.
->
-> Approval must be sought from CASA for operations at locations higher than
-> these procedures allow.
+> Approval must be sought from CASA for operations at locations higher than these
+> procedures allow.
+
+**Common error to avoid.** In the case documented here, the manual that CASA
+assessed described the black area as extending "1.5 km either side" of the
+runway centreline, and measured the 7 km from the runway threshold. That figure may
+have come from a label on the MOS figure. MOS 4.05(3)(b) says **500 m** either side,
+and 4.05(2)(b)(i) measures the 7 km from the **end of the runway strip**. The manual
+was more conservative than the MOS, not less, and CASA did not raise it — but it
+disagreed with the correct scenario answer, so fix it at the next revision. If you
+change wording CASA has already accepted, check whether the change is significant
+under MOS 10A.01.
 
 ### 5.4 New Appendix subsection — Tethered operations within the no-fly zone of a controlled aerodrome (template)
 
@@ -234,7 +324,10 @@ are examples — renumber to match your manual's existing structure.
 >   must not be operated above that approved height.
 > - Aerodrome elevation must be determined from the Aerodrome Obstacle
 >   Limitation Surface (OLS) data or obtained from the ERSA. Site elevation
->   must be confirmed using [mapping tool] prior to each operation.
+>   must be confirmed using [mapping tool] and at least one second source prior
+>   to each operation, and the RPA height (AMSL) confirmed on site — mapping
+>   tools can show different elevations for the same location (CASA noted that
+>   Google Earth web and desktop can differ).
 > - The RPIC must notify ATC prior to take-off and must operate the RPA in
 >   accordance with any instructions issued by ATC. The aviation radio must be
 >   monitored at all times during tethered operations to maintain situational
@@ -246,11 +339,15 @@ are examples — renumber to match your manual's existing structure.
 > each operation using the following method:
 >
 > - T = permitted actual length of tether
-> - a = maximum tether length permitted under the relevant MOS chapter
+> - a = maximum tether length permitted under the relevant MOS chapter (150 ft: MOS 4.04(3)(a))
 > - b = elevation of the tether ground attachment point (AMSL)
 > - c = aerodrome elevation (AMSL)
 >
 > Equation: **T = a − (b − c)**
+>
+> The result must **not exceed 150 ft**: if the formula gives more than 150 ft
+> (the ground attachment point is below the aerodrome elevation), the maximum
+> tether length is 150 ft (MOS 4.04(3)(a)).
 >
 > Example: tether ground attachment point = [value] AMSL; aerodrome elevation
 > = [value] AMSL; location in grey area with maximum tether length of [value].
@@ -286,6 +383,8 @@ are examples — renumber to match your manual's existing structure.
 > *Pre-flight, landing and post-flight:*
 > - Confirm NOTAM is active.
 > - Check serviceability of all tether components.
+> - Confirm the site elevation (AMSL) on site against your recorded figure and
+>   recalculate the tether length if it differs.
 > - Lay out the tether line to the take-off/landing point.
 > - Attach tether to RPA and confirm correct attachment by a second,
 >   independent inspection.
@@ -345,6 +444,13 @@ are examples — renumber to match your manual's existing structure.
 >   re-established within a safe timeframe, the tether operator must manually
 >   wind in the RPA.
 >
+> *Emergency commands (optional)*
+> - CASA's template phraseology is a guide, not a prescribed standard. If you
+>   include emergency commands in your phraseology table (for example "STOP STOP
+>   STOP"), state in this section the circumstances in which each is used and
+>   what the crew must do, in the same way as for "Tether retract unit
+>   inoperable". Commands you don't need can be left out.
+>
 > *Tether system maintenance*
 > - The tether unit and all components must be inspected before and after each
 >   flight.
@@ -356,6 +462,44 @@ are examples — renumber to match your manual's existing structure.
 >   accordance with [maintenance section] of this manual. The MC must note any
 >   approvals or restrictions specific to the tether system on the maintenance
 >   log for the approved system.
+
+### 5.5 Operations next to buildings (building wash / window cleaning) — people near the work (template)
+
+Tethered building-wash and window-cleaning jobs put the RPA close to people:
+pedestrians, building occupants and neighbours. CASA asked that the
+operations-near-people requirements in the manual be considered and complied
+with when planning this work. Cross-reference your near-people section from the
+tethering appendix and from the risk assessment. CASA's guidance is on its page
+[Flying over and near people](https://www.casa.gov.au/drones/flight-authorisations/flying-over-and-near-people).
+
+> #### Operations adjacent to buildings
+>
+> When planning tasks adjacent to buildings, including tethered window or façade
+> cleaning, the RP must assess the presence and movement of people within 30 m
+> laterally of the RPA at every stage of the task, and apply [operations near
+> people section]. The RPA must not be flown over any person.
+>
+> The JSA must record:
+>
+> - a ground exclusion zone beneath and around the work face, including the area
+>   within the tether length, the quadrant downwind of the tether ground point
+>   and likely spray drift, controlled with signage, barriers and spotters where
+>   needed;
+> - the time of day with the lowest foot traffic and, where practicable,
+>   temporary closure of nearby entrances and walkways;
+> - how people within 30 m will be identified and, where the RPA will operate
+>   within 30 m but not closer than 15 m, how each person's written consent will
+>   be obtained; and
+> - that the RPA will not be operated closer than 15 m laterally to any person
+>   not directly associated with the operation, unless the operator holds a CASA
+>   approval for it.
+>
+> The operation must stop, and the RPA be held clear or landed, if a person enters
+> the exclusion zone or comes within 15 m.
+
+The CASA page did not say whether people *inside* a building count as people for
+these rules, so treat anyone at windows, balconies, entrances or rooftops as
+people unless you have assessed otherwise, and record that in the JSA.
 
 ---
 
@@ -372,6 +516,16 @@ are examples — renumber to match your manual's existing structure.
 - [ ] Internal sign-off by CRP completed prior to submission.
 - [ ] Budget allowance made for CASA processing fee and any
       consultant/assessor fees, payable on receipt of CASA's estimate letter.
+- [ ] Scenario questionnaire prepared (see
+      [how to prepare](Scenario%20questionnaire%20-%20how%20to%20prepare.md)), with the
+      MOS clause cited in every rule-based answer.
+- [ ] Every number in the manual and the answers cross-checked against the current
+      MOS (4.04, 4.05, 9.05).
+- [ ] Elevation figures taken from two sources, and the same figure used in the
+      manual, the answers and the evidence.
+- [ ] Near-people controls for work next to buildings cross-referenced (section 5.5).
+- [ ] After approval: approval letter checked against your manual's version and
+      date, then filed.
 
 ---
 
@@ -387,3 +541,25 @@ are examples — renumber to match your manual's existing structure.
 - Keep the general tethering policy section and the detailed NFZ appendix
   procedure cross-referenced to each other so reviewers and pilots can navigate
   between the "what's allowed" policy and the "how to do it" procedure.
+- CASA doesn't send individual progress updates; it asks applicants not to email
+  for status and to use its published service delivery timeframes. In the case
+  documented here an inspector was assigned about four months after payment, then
+  the assessment took about five and a half weeks in two written feedback rounds.
+- Read the inspector's wording exactly. "Please ensure X is considered and complied
+  with" is an acknowledgement, not necessarily a request to rewrite the manual, and
+  "you may include" means optional.
+- CASA's template procedures are a guide, not a prescribed standard — but compare
+  every template section with your manual and be able to explain what you left out.
+- Put the MOS clause reference beside every number, and take elevations from two
+  sources, in the first submission. The second feedback round was entirely about
+  evidence.
+- Keep numbers identical across the manual, the scenario answers and the evidence,
+  and check them against the MOS text rather than a figure or an older manual.
+- After restructuring the appendix, re-render the document and check section
+  numbers, cross-references and the Amendment Record — they drift.
+- A change of company name (same ACN) is a separate application on Form 101-02 and
+  the manual must show the current legal entity name. CASA was happy to receive one
+  revised manual covering both the admin and the tether changes, as long as the
+  revision log shows everything clearly.
+- Confirm the approval letter names the exact manual version and date you
+  submitted.
